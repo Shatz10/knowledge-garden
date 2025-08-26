@@ -3,17 +3,14 @@ aliases:
   - CFF
 date created: 2022-08-14
 date modified: 2024-05-30
-tags:
-  - review
-  - prompts
-  - action
-  - adventure
 notetoolbar: SpacedRepetition
 title: CFF法则 - 夸奖别人的方法
 sr-due: 2033-05-27
 sr-interval: 2902
 sr-ease: 290
 publish: true
+分类:
+  - "[[提示词prompts - fileclass]]"
 ---
 
 真诚是第一位。

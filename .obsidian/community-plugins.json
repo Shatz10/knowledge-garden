@@ -20,8 +20,13 @@
   "obsidian-nine-tab",
   "folder-unfolder",
   "obsidian-advanced-unfolder",
-  "power-mode",
   "copy-url-in-preview",
   "pretty-properties",
-  "advanced-canvas"
+  "obsidian-matrix-rain",
+  "advanced-canvas",
+  "hot-reload",
+  "obsidian-smart-canvas",
+  "obsidian-weread-plugin",
+  "tag-wrangler",
+  "sticky-notes"
 ]

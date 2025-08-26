@@ -2,10 +2,11 @@
 date created: 2022-08-05
 date modified: 2025-07-09
 tags:
-  - 目录笔记
-  - todo/某天
+- todo/某天
 title: § 本库obsidian使用说明书
 publish: true
+分类:
+- '[[目录笔记 - fileclass]]'
 ---
 
 x:: [[» 本库tutorial编写工作流]]

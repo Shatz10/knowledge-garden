@@ -49,8 +49,13 @@
   "DELAYS": [
     {
       "id": "default",
-      "name": "默认延迟",
+      "name": "10秒",
       "time": 10
+    },
+    {
+      "id": "30秒",
+      "name": "30秒",
+      "time": 30
     }
   ],
   "Plugins": [
@@ -60,8 +65,8 @@
       "desc": "Export your notes to PDF, support export preview, add bookmarks outline and header/footer.",
       "group": "探索",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
@@ -78,20 +83,20 @@
       "id": "colored-tags-wrangler",
       "name": "Colored Tags Wrangler",
       "desc": "Assign colors to tags. Has integrations with other plugins, like Kanban.",
-      "group": "高频",
+      "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
       "id": "components",
       "name": "Components",
       "desc": "create component for your obsidian",
-      "group": "高频",
+      "group": "探索",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "30秒",
       "note": ""
     },
     {
@@ -100,37 +105,37 @@
       "desc": "Copy to clipboard, Open in default app, Show in system explorer, Reveal file in navigation, Open in new tab context menus for images.",
       "group": "探索",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
       "id": "cubox-sync",
       "name": "Cubox",
       "desc": "Sync your Cubox articles & annotations",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
       "id": "cycle-through-panes",
       "name": "Tab Switcher",
       "desc": "Switch your tabs with Ctrl + Tab in recently used order like in a browser.",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
       "id": "daily-note-calendar",
       "name": "Daily notes calendar",
       "desc": "Navigate your Obsidian Vault using a calendar view.",
-      "group": "经常",
+      "group": "探索",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "",
       "note": ""
     },
@@ -148,10 +153,10 @@
       "id": "folder-notes",
       "name": "Folder notes",
       "desc": "Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
@@ -160,18 +165,18 @@
       "desc": "Edit Markdown in a keyboard-centric Miller columns interface. Inspired by Gingko Writer.",
       "group": "探索",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
       "id": "note-refactor-obsidian",
       "name": "Note Refactor",
       "desc": "Extract note content into new notes and split notes",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -181,7 +186,7 @@
       "group": "default",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
@@ -191,7 +196,7 @@
       "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -201,7 +206,7 @@
       "group": "default",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -211,7 +216,7 @@
       "group": "default",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -220,8 +225,8 @@
       "desc": "This is a plugin that can import movies/books/musics/notes/games info data from Douban for Obsidian .",
       "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
@@ -230,8 +235,8 @@
       "desc": "An Obsidian plugin to edit and view Excalidraw drawings",
       "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
@@ -240,8 +245,8 @@
       "desc": "Easily convert your article to image.",
       "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
@@ -280,8 +285,8 @@
       "desc": "Create simple callouts in lists.",
       "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
@@ -310,8 +315,8 @@
       "desc": "This is obsidian plugin for Tencent weread.",
       "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
@@ -321,16 +326,16 @@
       "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
       "id": "obsidian42-strange-new-worlds",
       "name": "Strange New Worlds",
       "desc": "Help see how your vault is interconnected with visual indicators.",
-      "group": "高频",
+      "group": "探索",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "",
       "note": ""
     },
@@ -350,38 +355,38 @@
       "desc": "The most Obsidian-native PDF annotation tool ever.",
       "group": "探索",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
       "id": "periodic-notes",
       "name": "Periodic Notes",
       "desc": "Create/manage your daily, weekly, and monthly notes",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
       "id": "power-mode",
       "name": "POWER MODE",
       "desc": "Active POWER MODE!!!!",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
       "id": "quartz-syncer",
       "name": "Quartz Syncer",
       "desc": "Manage and publish your notes to Quartz, the fast, batteries-included static-site generator.",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
@@ -400,28 +405,28 @@
       "desc": "Rename, merge, toggle, and search tags from the tags view",
       "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
       "id": "templater-obsidian",
       "name": "Templater",
       "desc": "Create and use templates",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
       "id": "various-complements",
       "name": "Various Complements",
       "desc": "This plugin enables you to complete words like the auto-completion of IDE",
-      "group": "default",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
@@ -431,17 +436,17 @@
       "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
       "id": "sidebar-highlights",
       "name": "Sidebar Highlights",
       "desc": "View and manage text highlights, comments on highlights, native comments, and collections for your highlights.",
-      "group": "探索",
+      "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": ""
     },
     {
@@ -460,8 +465,8 @@
       "desc": "Create and manage columns in your notes effortlessly, featuring customizable columns with easy-to-resize widths.",
       "group": "经常",
       "tags": [],
-      "enabled": true,
-      "delay": "",
+      "enabled": false,
+      "delay": "default",
       "note": "还不错"
     },
     {
@@ -471,17 +476,17 @@
       "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
       "id": "pretty-properties",
       "name": "Pretty Properties",
       "desc": "Makes note properties look more fun: adds side image, banners, list property colors and allows to hide specific properties.",
-      "group": "探索",
+      "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -491,7 +496,7 @@
       "group": "高频",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
@@ -503,7 +508,7 @@
         "12345"
       ],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -515,7 +520,7 @@
         "12345"
       ],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -524,7 +529,7 @@
       "desc": "Automatically reload in-development plugins when their files are changed",
       "group": "探索",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "",
       "note": ""
     },
@@ -537,7 +542,7 @@
         "12345"
       ],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -557,7 +562,7 @@
       "group": "default",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "30秒",
       "note": ""
     },
     {
@@ -569,7 +574,7 @@
         "12345"
       ],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": ""
     },
     {
@@ -577,6 +582,36 @@
       "name": "Keyboard Analyzer",
       "desc": "See and analyze your keyboard hotkeys and shortcuts",
       "group": "探索",
+      "tags": [],
+      "enabled": false,
+      "delay": "default",
+      "note": ""
+    },
+    {
+      "id": "obsidian-matrix-rain",
+      "name": "Matrix Rain",
+      "desc": "从当前聚焦笔记抽取字符，显示黑客帝国矩阵雨。支持全屏或仅活跃 leaf 覆盖，并可配置参数。",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": ""
+    },
+    {
+      "id": "ravenhogwarts-toolkit",
+      "name": "RavenHogwarts's Toolkit",
+      "desc": "A personal toolkit plugin (OTK) that integrates various utilities, designed to enhance personal note-taking experience.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "sticky-notes",
+      "name": "Sticky Notes",
+      "desc": "Create sticky notes popups.",
+      "group": "",
       "tags": [],
       "enabled": true,
       "delay": "",

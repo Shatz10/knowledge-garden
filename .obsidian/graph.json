@@ -21,5 +21,6 @@
   "localBacklinks": true,
   "localForelinks": true,
   "localInterlinks": false,
-  "localJumps": 1
+  "localJumps": 1,
+  "showOrphans": true
 }

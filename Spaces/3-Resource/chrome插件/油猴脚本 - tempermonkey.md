@@ -2,13 +2,13 @@
 date created: 2022-06-09
 date modified: 2023-03-14
 title: 油猴脚本 - tempermonkey
-tags:
-  - chrome插件
 评价: 7
 是否有firefox版本: true
 设置同步: google drive
 publish: true
 icon: https://pub-pic.oldwinter.top/2025/07/7f5747b8e51cc963fc050525516c131d.png
+分类:
+- '[[chrome插件 - fileclass]]'
 ---
 
 ![image.png](https://pub-pic.oldwinter.top/2025/07/7f5747b8e51cc963fc050525516c131d.png)

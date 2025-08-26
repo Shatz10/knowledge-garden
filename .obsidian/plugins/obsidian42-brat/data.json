@@ -1,13 +1,6 @@
 {
-  "pluginList": [
-    "RavenHogWarts/obsidian-ravenhogwarts-toolkit"
-  ],
-  "pluginSubListFrozenVersion": [
-    {
-      "repo": "RavenHogWarts/obsidian-ravenhogwarts-toolkit",
-      "version": "latest"
-    }
-  ],
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,

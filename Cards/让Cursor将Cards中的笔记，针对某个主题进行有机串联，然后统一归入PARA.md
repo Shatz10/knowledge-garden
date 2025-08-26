@@ -2,8 +2,6 @@
 date created: 2025-07-09
 date modified: 2025-07-09
 publish: true
-tags:
-  - obsidian与AI
 是否已review: true
 ---
 

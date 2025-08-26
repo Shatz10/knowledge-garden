@@ -1,12 +1,12 @@
 ---
 date modified: 2025-07-15
 title: About DB folders
-tags:
-  - 本库教程
-  - workflow
 date created: 2023-03-01
 publish: true
 是否已review: true
+分类:
+- '[[工作流workflow - fileclass]]'
+- '[[本库教程 - fileclass]]'
 ---
 
 > obsidian版本号>=1.9，才能使用base功能哦。未拥有obsidian catalyst的用户，请耐心等待这个大版本公开，个人预估在25年8月左右。

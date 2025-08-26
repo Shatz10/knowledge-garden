@@ -22,7 +22,6 @@ views:
       - file.backlinks
       - file.links
       - formula.Untitled
-      - formula.Untitled 2
     sort:
       - property: formula.反链数量
         direction: DESC

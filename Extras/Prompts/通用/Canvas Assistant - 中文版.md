@@ -2,10 +2,10 @@
 publish: true
 date created: 2025-01-08
 date modified: 2025-01-08
-tags:
-  - AI生成
-  - prompts
 title: Canvas Assistant - 中文版
+分类:
+- '[[提示词prompts - fileclass]]'
+- '[[AI生成 - fileclass]]'
 ---
 
 # Canvas Assistant - 中文版

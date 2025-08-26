@@ -1,12 +1,11 @@
 ---
 date created: 2024-11-18
 date modified: 2024-11-18
-tags:
-  - obsidian插件
 rating: 4
-status:
+status: null
 publish: true
 aliases:
-  - copy-url-in-preview
+- copy-url-in-preview
+分类: "[[obsidian插件 - fileclass]]"
 ---
 

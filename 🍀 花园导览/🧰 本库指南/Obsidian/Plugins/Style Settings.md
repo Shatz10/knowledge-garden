@@ -1,14 +1,13 @@
 ---
 date created: 2023-01-23
 date modified: 2025-07-17
-tags:
-  - obsidian插件
-status:
+status: null
 rating: 7
 publish: true
 title: Style Settings
 aliases:
-  - obsidian-style-settings
+- obsidian-style-settings
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 ## 给style setting中某些字段，配置快捷命令的方式。

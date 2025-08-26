@@ -2,7 +2,8 @@
 star_date: 2022-08-16 16:57:38
 repo_name: giscus/giscus
 repo_url: https://github.com/giscus/giscus
-description: "A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:"
+description: 'A commenting system powered by GitHub Discussions. :octocat: :speech_balloon:
+  :gem:'
 language: TypeScript
 stars: 9909
 forks: 387
@@ -12,25 +13,25 @@ pushed_date: 2025-04-21
 is_fork: false
 license: MIT License
 topics:
-  - blog
-  - comment-system
-  - comments
-  - comments-widget
-  - giscus
-  - github
-  - github-discussions
-  - hacktoberfest
-  - javascript
-  - nextjs
-  - react
-  - reactjs
-  - utterances
-  - widget
+- blog
+- comment-system
+- comments
+- comments-widget
+- giscus
+- github
+- github-discussions
+- hacktoberfest
+- javascript
+- nextjs
+- react
+- reactjs
+- utterances
+- widget
 size_kb: 3547
 issues: 97
-tags:
-  - github开源
 publish: true
+分类:
+- '[[github开源 - fileclass]]'
 ---
 
 # giscus/giscus

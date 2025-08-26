@@ -3,9 +3,9 @@ date created: 2025-04-03
 date modified: 2025-04-09
 author:
   - "[[Andrej Karpathy]]"
-tags:
-  - youtube长视频
 publish: true
+分类:
+  - "[[长视频 - fileclass]]"
 ---
 
 [Deep Dive into LLMs like ChatGPT - YouTube](https://www.youtube.com/watch?v=7xTGNNLPyMI&list=WL&index=1&t=276s)

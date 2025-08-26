@@ -2,8 +2,9 @@
 date created: 2022-06-22
 date modified: 2023-03-14
 title: 🧑Nick Milo
-filetype: person
 publish: true
+分类:
+- '[[person人 - fileclass]]'
 ---
 
 LYT, linking your thinking 网站的创始人。[[∑ MOCs]] 的发明人。

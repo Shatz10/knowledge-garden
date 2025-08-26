@@ -1,13 +1,13 @@
 ---
 date created: 2022-06-06
 date modified: 2025-07-09
-tags:
-  - moc
 title: ∑ MOCs
 publish: true
 是否已review: true
 aliases:
-  - MOC
+- MOC
+分类:
+- '[[MOC内容地图 - fileclass]]'
 ---
 
 > 这个是一个大 [[∑ MOCs]] 或叫根 MOC，是本库的所有 MOC 的 MOC。现在我还没想清楚，所以是边实践边改动。

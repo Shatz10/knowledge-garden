@@ -1,11 +1,12 @@
 ---
 tags:
-  - MOC
-  - todo
-  - AI生成
+- todo
 date created: 2024-07-29
 date modified: 2025-07-05
 publish: true
+分类:
+- '[[AI生成 - fileclass]]'
+- '[[MOC内容地图 - fileclass]]'
 ---
 
 # Obsidian 从入门到精通
@@ -55,7 +56,7 @@ publish: true
 
 ### 核心功能实践
 
-- **Canvas (画布)**：一个无限的可视化空间，适合用来头脑风暴、梳理复杂概念。您可以参考 [[» canvas使用经验和技巧]] 和这个高级学习路径图 [[Obsidian 从入门到精通 - 高级版.canvas]]。
+- **Canvas (画布)**：一个无限的可视化空间，适合用来头脑风暴、梳理复杂概念。您可以参考 [[» canvas使用经验和技巧]] 和这个高级学习路径图 [[Obsidian 从入门到精通高级版.canvas]]。
 - **Bases (数据库)**：作为 [[Notion]] Database 的替代品，Bases 提供了强大的数据库功能，但更灵活。参考 [[Obsidian Bases syntax 规范]] 和 [[obsidian base 和 notion database的本质不同]]。本库的 [[Obsidian插件.base]] 就是一个很好的应用实例。
 - **Templates (模板)**：使用模板可以极大地提高效率和一致性，本库的模板入口在 [[∑ 模板文件创建入口]]。
 

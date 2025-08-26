@@ -2,8 +2,9 @@
 date created: 2022-06-09
 date modified: 2023-03-14
 title: 📹放弃roam用obsidian的理由
-filetype: 视频笔记
 publish: true
+分类:
+- '[[长视频 - fileclass]]'
 ---
 
 [Why I chose Obsidian over Roam (as a Roam investor) - YouTube](https://www.youtube.com/watch?v=AWUk8-6yG2g)

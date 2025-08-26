@@ -1,10 +1,10 @@
 ---
 date created: 2025-04-14
 date modified: 2025-07-09
-tags:
-  - workflow
 publish: true
 是否已review: true
+分类:
+- '[[工作流workflow - fileclass]]'
 ---
 
 # ⚙️ 附加资源 (Extras) 说明

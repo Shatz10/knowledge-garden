@@ -1,10 +1,10 @@
 ---
 date created: 2025-04-09
 date modified: 2025-06-27
-tags:
-  - 本库教程
 title: About Project
 publish: true
+分类:
+- '[[本库教程 - fileclass]]'
 ---
 
 [[项目笔记]] 的所在地。集中存放短中期聚焦的项目内容。

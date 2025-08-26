@@ -11,11 +11,10 @@ lastReadDate: 2022-08-07 00:00:00+00:00
 noteCount: 1
 publisher: Profile
 reviewCount: 42
-tags:
-  - 微信读书笔记
 title: Building a Second Brain-Tiago Forte
 publish: true
 类型: 个人知识管理
+分类: "[[微信读书笔记 - fileclass]]"
 ---
 
 ## 元数据

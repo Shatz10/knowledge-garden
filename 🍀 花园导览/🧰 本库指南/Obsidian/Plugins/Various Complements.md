@@ -1,14 +1,13 @@
 ---
 date created: 2022-06-09
 date modified: 2025-06-06
-tags:
-  - obsidian插件
-status:
+status: null
 title: Various Complements
 rating: 6
 publish: true
 aliases:
-  - various-complements
+- various-complements
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 ## Various Complements

@@ -5,16 +5,15 @@
 是否已备份: y
 是否已重装: true
 brew安装命令: brew install --cask bettertouchtool
-tags:
-  - macOS软件
 title: BetterTouchTool
 date created: 2022-06-09
 date modified: 2025-06-18
-icon: "[[icon-cc-image-BetterTouchTool.png]]"
+icon: '[[icon-cc-image-BetterTouchTool.png]]'
 当前是否还在使用: true
 是否有破解版: true
 publish: true
-跨平台技术栈: "[[Swift]]"
+跨平台技术栈: '[[Swift]]'
+分类: '[[macOS软件 - fileclass]]'
 ---
 
 2025-07-29 目前在macOS 26 beta上面还有bug，设置hyper键，会让屏幕突然失效，无法点击，或者左键变成了右键的效果。

@@ -2,11 +2,23 @@
 date created: 2025-04-17
 date modified: 2025-08-13
 publish: true
-tags:
-  - powershell命令
-  - linux命令
+分类:
+- '[[linux命令 - fileclass]]'
+- '[[powershell命令 - fileclass]]'
 ---
 
+## 别人的配置参考
+
+[[claude code 配置]]
+
+##
+
+塞尔达音效 
+```
+npm install -g zelda-claude-code@latest
+```
+
+## 
 用量监控[[claude code monitor]]
 
 ##

@@ -2,8 +2,8 @@
 date created: 2025-07-18
 date modified: 2025-07-18
 publish: true
-tags:
-  - AI生成
+分类:
+- '[[AI生成 - fileclass]]'
 ---
 
 > 注：以下内容为AI生成，我认真阅读后，基本符合我自己的观点，所以略作补充后，发出来。

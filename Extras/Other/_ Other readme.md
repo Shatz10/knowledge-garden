@@ -2,9 +2,9 @@
 publish: true
 date created: 2022-08-06
 date modified: 2025-07-12
-tags:
-  - 本库教程
 title: README
+分类:
+- '[[本库教程 - fileclass]]'
 ---
 
 

@@ -1,13 +1,12 @@
 ---
 date created: 2025-06-06
 date modified: 2025-07-10
-tags:
-  - obsidian插件
 rating: 6
-status:
+status: null
 publish: true
 aliases:
-  - cycle-through-panes
+- cycle-through-panes
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 表现好于[[Tab Selector]]，它能跨tab group，而后者是不行的。

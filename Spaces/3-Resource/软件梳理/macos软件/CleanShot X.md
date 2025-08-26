@@ -2,16 +2,15 @@
 date created: 2025-04-03
 date modified: 2025-07-26
 title: CleanShot X
-tags:
-  - macOS软件
 评价: 6
 brew安装命令: 用破解版
-icon: "[[icon-cc-image-CleanShotX.jpg]]"
+icon: '[[icon-cc-image-CleanShotX.jpg]]'
 是否已重装: true
 是否有破解版: true
 设置同步: ？？？
 publish: true
-跨平台技术栈: "[[Swift]]"
+跨平台技术栈: '[[Swift]]'
+分类: '[[macOS软件 - fileclass]]'
 ---
 
 使用技巧：

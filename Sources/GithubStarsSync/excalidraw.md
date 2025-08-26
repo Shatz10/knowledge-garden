@@ -12,26 +12,26 @@ pushed_date: 2025-06-19
 is_fork: false
 license: MIT License
 topics:
-  - canvas
-  - collaboration
-  - diagrams
-  - drawing
-  - hacktoberfest
-  - productivity
-  - whiteboard
+- canvas
+- collaboration
+- diagrams
+- drawing
+- hacktoberfest
+- productivity
+- whiteboard
 size_kb: 93133
 issues: 2177
-tags:
-  - github开源
-  - obsidian插件
 date created: 2023-01-23
 date modified: 2025-07-12
-status:
+status: null
 rating: 5
 publish: true
 title: Excalidraw
 aliases:
-  - obsidian-excalidraw-plugin
+- obsidian-excalidraw-plugin
+分类:
+- '[[obsidian插件 - fileclass]]'
+- '[[github开源 - fileclass]]'
 ---
 
 ### 引用excalidraw中的局部区域

@@ -2,11 +2,11 @@
 date created: 2025-07-15
 date modified: 2025-07-15
 publish: true
-tags:
-  - macOS软件
-  - windows软件
 评价: 5
-icon: "[[Comet_icon-icon-cc-image.png]]"
+icon: '[[Comet_icon-icon-cc-image.png]]'
+分类:
+- '[[macOS软件 - fileclass]]'
+- '[[windows软件 - fileclass]]'
 ---
 
 2025-07-15：这里放上我一个一枚邀请码，闲鱼要卖80元哦当前。

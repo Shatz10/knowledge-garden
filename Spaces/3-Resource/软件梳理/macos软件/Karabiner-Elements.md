@@ -1,10 +1,7 @@
 ---
 date created: 2024-10-22
 date modified: 2025-08-15
-icon: "[[icon-cc-image-Karabiner-Elements.png]]"
-tags:
-  - macOS软件
-  - github开源
+icon: '[[icon-cc-image-Karabiner-Elements.png]]'
 brew安装命令: brew install --cask karabiner-elements
 当前使用频率: 5
 评价: 4
@@ -22,10 +19,13 @@ pushed_date: 2025-06-15
 is_fork: false
 license: The Unlicense
 topics:
-  - keyboard
-  - macos
+- keyboard
+- macos
 size_kb: 111806
 issues: 1226
+分类:
+- '[[macOS软件 - fileclass]]'
+- '[[github开源 - fileclass]]'
 ---
 
 2025-08-15：换成[[BetterTouchTool]]设置hyperkey一段时间，但是密码框输入的时候无法使用，不习惯，还是换回来了。karabiner属于系统级别的注入更改，所以能在密码框的安全输入模式中，也能响应。但之前karabiner一直有个小问题，会导致输入法的中文符号被重置成英文符号，这次再看看是否还会发生。

@@ -2,10 +2,11 @@
 date created: 2022-08-14
 date modified: 2025-07-09
 tags:
-  - 目录笔记
-  - todo/持续迭代
+- todo/持续迭代
 title: § TOCs
 publish: true
+分类:
+- '[[目录笔记 - fileclass]]'
 ---
 
 > 尝试定期将笔记库局部内容结构化，结构化的过程中，会有新的体会。

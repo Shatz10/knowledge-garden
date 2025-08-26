@@ -2,23 +2,23 @@
 title: Warp
 date created: 2023-01-06
 date modified: 2024-08-07
-tags:
-  - macOS软件
-  - AI产品/编程
-  - windows软件
-  - raycast插件
-  - AI工具
 评价: 6
 当前使用频率: 5
-icon: "[[icon-cc-image-Warp.png]]"
+icon: '[[icon-cc-image-Warp.png]]'
 当前是否还在使用: true
 是否已重装: true
 brew安装命令: brew install --cask warp
 设置同步: 官方账号
 publish: true
-跨平台技术栈: "[[Swift]]"
+跨平台技术栈: '[[Swift]]'
 aliases:
-  - Warp
+- Warp
+分类:
+- '[[macOS软件 - fileclass]]'
+- '[[windows软件 - fileclass]]'
+- '[[AI产品-编程 - fileclass]]'
+- '[[raycast插件 - fileclass]]'
+- '[[AI产品 - fileclass]]'
 ---
 
 ## 最牛逼的特性

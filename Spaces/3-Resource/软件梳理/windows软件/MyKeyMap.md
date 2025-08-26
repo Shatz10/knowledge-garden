@@ -1,11 +1,8 @@
 ---
 date created: 2024-08-17
 date modified: 2025-07-13
-tags:
-  - windows软件
-  - github开源
 评价: 7
-icon: "[[icon-cc-image-MyKeyMap.png]]"
+icon: '[[icon-cc-image-MyKeyMap.png]]'
 publish: true
 star_date: 2024-08-09 15:10:21
 repo_name: xianyukang/MyKeymap
@@ -20,14 +17,17 @@ pushed_date: 2025-06-09
 is_fork: false
 license: GNU General Public License v3.0
 topics:
-  - autohotkey
-  - capslock
-  - keymapping
-  - launchy
-  - productivity
-  - windows
+- autohotkey
+- capslock
+- keymapping
+- launchy
+- productivity
+- windows
 size_kb: 26005
 issues: 19
+分类:
+- '[[windows软件 - fileclass]]'
+- '[[github开源 - fileclass]]'
 ---
 
 目前可以用于取代[[Raycast]]中的热键，按一次呼出，再按一次隐藏。就很优雅。

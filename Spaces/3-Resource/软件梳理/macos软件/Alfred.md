@@ -2,17 +2,16 @@
 date created: 2022-06-09
 date modified: 2023-03-14
 title: Alfred
-tags:
-  - macOS软件
 作用: 搜索一切 的 hub
 评价: 5
 brew安装命令: brew install --cask alfred
 设置同步: icloud 自动同步
 是否已备份: y
-是否已重装:
-icon: "[[icon-cc-image-Alfred.png]]"
+是否已重装: null
+icon: '[[icon-cc-image-Alfred.png]]'
 publish: true
-跨平台技术栈: "[[Swift]]"
+跨平台技术栈: '[[Swift]]'
+分类: '[[macOS软件 - fileclass]]'
 ---
 
 其他竞品：[[uTools]]，[[go]]

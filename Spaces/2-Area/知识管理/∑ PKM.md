@@ -1,14 +1,14 @@
 ---
 aliases:
-  - personal knowledge management
-  - 『入不孵出』PKM系统
-  - 个人知识管理
+- personal knowledge management
+- 『入不孵出』PKM系统
+- 个人知识管理
 date created: 2022-06-09
 date modified: 2024-11-07
-tags:
-  - moc
 title: ∑ PKM
 publish: true
+分类:
+- '[[MOC内容地图 - fileclass]]'
 ---
 
 [[语雀创始人玉伯 对 笔记和知识管理的理解]]

@@ -2,14 +2,13 @@
 title: File Cooker
 date created: 2024-05-11
 date modified: 2025-08-19
-tags:
-  - obsidian插件
-status:
+status: null
 rating: 7
 publish: true
 一句话理由: 批量编辑、移动神器，和cursor联动有奇效
 aliases:
-  - obsidian-file-cooker
+- obsidian-file-cooker
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 2025-8-19发现，将文件拖动到canvas，然后选中，右键批量移动，非常方便，都不需要用到file cooker了。

@@ -1,14 +1,13 @@
 ---
 date created: 2024-05-11
 date modified: 2025-08-07
-tags:
-  - obsidian插件
-status:
+status: null
 rating: 7
 publish: true
 一句话理由: 两个+号，还是保守了，我愿意给6个⭐️
 aliases:
-  - darlal-switcher-plus
+- darlal-switcher-plus
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 满分，神器。

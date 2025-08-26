@@ -2,7 +2,8 @@
 star_date: 2022-06-03 13:04:42
 repo_name: jackyzha0/quartz
 repo_url: https://github.com/jackyzha0/quartz
-description: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+description: 🌱 a fast, batteries-included static-site generator that transforms Markdown
+  content into fully functional websites
 language: TypeScript
 stars: 9317
 forks: 2916
@@ -12,20 +13,20 @@ pushed_date: 2025-06-18
 is_fork: false
 license: MIT License
 topics:
-  - digital-garden
-  - networked-thought
-  - obsidian
-  - obsidian-md
-  - quartz-ssg
-  - static-site-generator
+- digital-garden
+- networked-thought
+- obsidian
+- obsidian-md
+- quartz-ssg
+- static-site-generator
 size_kb: 16233
 issues: 178
-tags:
-  - github开源
 date created: 2022-08-21
 date modified: 2025-07-29
 title: quartz
 publish: true
+分类:
+- '[[github开源 - fileclass]]'
 ---
 
 x:: [[quartz syncer]]

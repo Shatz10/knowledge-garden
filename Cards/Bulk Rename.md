@@ -4,10 +4,9 @@
 title: Bulk Rename
 date created: 2023-01-23
 date modified: 2025-06-23
-tags:
-  - obsidian插件
 rating: 5
 publish: true
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 

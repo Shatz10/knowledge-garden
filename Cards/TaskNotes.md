@@ -1,14 +1,15 @@
 ---
 date created: 2025-08-06
 date modified: 2025-08-17
-tags:
-  - obsidian插件
 publish: true
 rating: 7
 一句话理由: 使得obsidian中的任务管理像呼吸一样自然
 aliases:
-  - tasknotes
+- tasknotes
+分类: "[[obsidian插件 - fileclass]]"
 ---
+
+可以理解成是核心插件 bookmarks 的超集。用上这个插件，我直接关闭bookmarks了。当然bookmarks有个特点是，不更改md源文件，而且可以将全部文件类型做为书签，但是好像也没什么用。但突然想到，可以用来做为base和canvas等文件是否publish的标志，这样就不用我多搞个.publish文件了。
 
 这个插件好，理念和obsidian base很像，让我有了开始在obsidian中进行任务管理的冲动。
 

@@ -1,10 +1,10 @@
 ---
 date created: 2025-06-17
 date modified: 2025-07-09
-tags:
-  - workflow
 publish: true
 是否已review: true
+分类:
+- '[[工作流workflow - fileclass]]'
 ---
 
 # 📥 收件箱 (Inbox) 说明

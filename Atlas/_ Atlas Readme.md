@@ -1,12 +1,12 @@
 ---
 date created: 2022-06-23
 date modified: 2023-10-09
-tags:
-  - workflow
 cssclasses:
-  - dashboard
+- dashboard
 title: About Atlas
 publish: true
+分类:
+- '[[工作流workflow - fileclass]]'
 ---
 
 # 🗺️ 知识图谱 (Atlas) 说明

@@ -2,10 +2,9 @@
 date created: 2025-06-23
 date modified: 2025-08-15
 publish: true
-tags:
-  - obsidian插件
 rating: 2
 status:
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 使用css的方式，改变[[obsidian canvas]]的界面表现，已经免费且开源：

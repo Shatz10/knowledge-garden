@@ -1,9 +1,9 @@
 ---
 date created: 2025-05-03
 date modified: 2025-05-26
-tags:
-  - prompts
 publish: true
+分类:
+- '[[提示词prompts - fileclass]]'
 ---
 Role：你是最擅长内容和数据视觉化、信息图展示的大师。
 

@@ -2,10 +2,13 @@
 date created: 2022-08-07
 date modified: 2023-03-14
 title: » 本库非md的资源文件管理工作流
-
 publish: true
-tags: [AI生成, workflow, file-management]
-aliases: [非md资源文件管理, 附件管理]
+aliases:
+  - 非md资源文件管理
+  - 附件管理
+分类:
+  - "[[工作流workflow - fileclass]]"
+  - "[[AI生成 - fileclass]]"
 ---
 # 非 MD 资源文件管理工作流
 

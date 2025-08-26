@@ -12,29 +12,29 @@ pushed_date: 2025-06-19
 is_fork: false
 license: GNU General Public License v2.0
 topics:
-  - aliyun
-  - baidu
-  - blog
-  - cloudbase
-  - comment
-  - comment-system
-  - disqus
-  - leancloud
-  - mongodb
-  - mysql
-  - netlify
-  - postgresql
-  - railway
-  - self-hosted
-  - sqlite
-  - tidb
-  - vercel
-  - zeabur
+- aliyun
+- baidu
+- blog
+- cloudbase
+- comment
+- comment-system
+- disqus
+- leancloud
+- mongodb
+- mysql
+- netlify
+- postgresql
+- railway
+- self-hosted
+- sqlite
+- tidb
+- vercel
+- zeabur
 size_kb: 65531
 issues: 61
-tags:
-  - github开源
 publish: true
+分类:
+- '[[github开源 - fileclass]]'
 ---
 
 # walinejs/waline

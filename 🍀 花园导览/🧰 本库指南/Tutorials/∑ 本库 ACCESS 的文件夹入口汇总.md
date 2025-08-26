@@ -2,12 +2,13 @@
 date created: 2022-08-04
 date modified: 2023-03-14
 tags:
-  - moc
-  - todo/持续迭代
-  - todo/now
-  - todo/本周
+- todo/持续迭代
+- todo/now
+- todo/本周
 title: ∑ 本库 ACCESS 的文件夹入口汇总
 publish: true
+分类:
+- '[[MOC内容地图 - fileclass]]'
 ---
 up:: [[ACCESS 笔记组织法]]  
 x:: [[∑ 本库 ACCESS 工作流汇总]] , [[本库ACCESS文件夹结构与混合笔记法]]  

@@ -1,11 +1,10 @@
 ---
 date created: 2025-03-21
 date modified: 2025-07-10
-tags:
-  - obsidian插件
 rating: 1
-status:
+status: null
 publish: true
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 发布太麻烦了，自己用吧。

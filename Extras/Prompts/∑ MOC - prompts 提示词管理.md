@@ -1,10 +1,10 @@
 ---
 uid: 12d5317c-3533-4967-b352-790cb50c0eef
-tags:
-  - prompts
 date created: 2025-04-24
 date modified: 2025-08-22
 publish: true
+分类:
+- '[[提示词prompts - fileclass]]'
 ---
 
 [[如何快速地搜索存在obsidian中的提示词并复制]]
@@ -32,6 +32,7 @@ publish: true
 - [[平庸自拍照 - 图片生成]]
 - [[城市天气微缩图 - 图片生成]]
 - [[图标icon果冻3d效果 - 图片生成]]
+- [[手办3d模型生成 - 图片生成]]
 
 ## 视频生成类
 

@@ -3,10 +3,7 @@ date created: 2022-06-09
 date modified: 2025-07-10
 title: Obsidian
 tags:
-  - 评论/少数派
-  - macOS软件
-  - 安卓软件
-  - windows软件
+- 评论/少数派
 设置同步: git和官方同步
 评价: 7
 brew安装命令: brew install --cask obsidian
@@ -16,9 +13,13 @@ brew安装命令: brew install --cask obsidian
 当前是否还在使用: true
 是否已重装: true
 publish: true
-跨平台技术栈: "[[Electron]]"
-icon: "[[icon-cc-image-Obsidian.png]]"
-icon-3d: "[[obsidian-3d-icon-cc-image.png]]"
+跨平台技术栈: '[[Electron]]'
+icon: '[[icon-cc-image-Obsidian.png]]'
+icon-3d: '[[obsidian-3d-icon-cc-image.png]]'
+分类:
+- '[[macOS软件 - fileclass]]'
+- '[[安卓软件 - fileclass]]'
+- '[[windows软件 - fileclass]]'
 ---
 
 up:: [[笔记软件的选择]]  

@@ -1,14 +1,13 @@
 ---
 date created: 2024-05-11
 date modified: 2025-07-10
-tags:
-  - obsidian插件
-status:
+status: null
 rating: 6
 publish: true
 title: Note Refactor
 aliases:
-  - note-refactor-obsidian
+- note-refactor-obsidian
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 

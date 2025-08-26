@@ -11,7 +11,6 @@
     "date modified": "date",
     "订阅费用（年）": "text",
     "相关笔记": "multitext",
-    "canvas-edges": "multitext",
     "notetoolbar": "multitext",
     "是否有firefox版本": "checkbox",
     "update_time": "datetime",
@@ -19,7 +18,6 @@
     "是否有破解版": "checkbox",
     "是否通过UniGetUI安装": "checkbox",
     "publish": "checkbox",
-    "优先级": "number",
     "是否已review": "checkbox",
     "发布时间": "datetime",
     "是否在用": "checkbox",
@@ -27,6 +25,12 @@
     "dateModified": "datetime",
     "小红书-话题": "multitext",
     "跨平台技术栈": "text",
-    "win右下角是否弹窗": "checkbox"
+    "win右下角是否弹窗": "checkbox",
+    "分类": "multitext",
+    "category": "text",
+    "cover": "text",
+    "isbn": "number",
+    "lastReadDate": "datetime",
+    "fields": "text"
   }
 }

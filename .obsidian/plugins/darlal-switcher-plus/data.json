@@ -115,7 +115,7 @@
     },
     "fileExtAdjustments": {
       "canvas": {
-        "value": 0,
+        "value": 1,
         "label": "Canvas files"
       }
     }

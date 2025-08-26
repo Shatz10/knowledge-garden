@@ -2215,6 +2215,7 @@ var OutgoingLinksPatcher = class extends Patcher {
 var PropertiesPatcher = class extends Patcher {
   async patch() {
     if (!this.plugin.settings.getSetting("canvasMetadataCompatibilityEnabled")) return;
+    if (!this.plugin.app.viewRegistry.viewByType["file-properties"]) return;
     const that = this;
     await Patcher.waitForViewRequest(this.plugin, "file-properties", (view) => {
       Patcher.patchPrototype(this.plugin, view, {
@@ -4285,7 +4286,7 @@ var FrontmatterControlButtonCanvasExtension = class extends CanvasExtension {
           var _a2;
           const propertiesPlugin = this.plugin.app.internalPlugins.plugins["properties"];
           if (!(propertiesPlugin == null ? void 0 : propertiesPlugin._loaded)) {
-            new import_obsidian15.Notice(`Core plugin "Properties" was not found or isn't enabled.`);
+            new import_obsidian15.Notice(`Core plugin "Properties view" was not found or isn't enabled. Enable it and restart Obsidian.`);
             return;
           }
           let propertiesLeaf = (_a2 = this.plugin.app.workspace.getLeavesOfType("file-properties").first()) != null ? _a2 : null;

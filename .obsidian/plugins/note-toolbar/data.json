@@ -915,7 +915,7 @@
           "link": "Style Settings: Toggle Super Focused Mode",
           "linkAttr": {
             "commandCheck": false,
-            "commandId": "obsidian-style-settings:style-settings-class-toggle-V1-Willemstad-Editor-ssopt-super-focused-mode",
+            "commandId": "obsidian-style-settings:style-settings-class-toggle-pluglets-iem-settings-ssopt-super-focused-mode",
             "hasVars": false,
             "type": "command"
           },
@@ -1578,7 +1578,7 @@
           }
         }
       },
-      "updated": "2025-08-19T14:11:13.582Z"
+      "updated": "2025-08-25T15:55:37.679Z"
     }
   ],
   "version": 20250313.1,

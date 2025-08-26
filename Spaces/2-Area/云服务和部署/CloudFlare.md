@@ -2,11 +2,11 @@
 date created: 2022-07-01
 date modified: 2023-03-14
 title: CloudFlare
-tags:
-  - 好用网站
 url: https://dash.cloudflare.com/
 评价: 7
 publish: true
+分类:
+- '[[好用网站 - fileclass]]'
 ---
 
 日常使用考虑配合ai生成命令行，用[[wrangler]]进行操作

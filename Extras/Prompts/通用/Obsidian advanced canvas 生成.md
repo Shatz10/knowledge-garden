@@ -1,9 +1,9 @@
 ---
 date created: 2025-05-14
 date modified: 2025-05-26
-tags:
-  - prompts
 publish: true
+分类:
+- '[[提示词prompts - fileclass]]'
 ---
 
 ## 提示词

@@ -1,11 +1,10 @@
 ---
 date created: 2024-05-11
 date modified: 2025-06-06
-tags:
-  - obsidian插件
-status:
+status: null
 rating: 4
 publish: true
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 > 现在还没用上，更倾向于all in ob以后，需要和obsidian软件外联动的不多，没用起来。[[Advanced URI]]用用足够了对我来说。

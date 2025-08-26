@@ -1,9 +1,9 @@
 ---
 date created: 2025-06-05
 date modified: 2025-06-05
-tags:
-  - Prompt
 publish: true
+分类:
+  - "[[提示词prompts - fileclass]]"
 ---
 [[CFF法则 - 夸奖别人的方法|CFF]]
 

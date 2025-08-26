@@ -154,7 +154,9 @@
   "hideCompletedFromOverdue": true,
   "icsIntegration": {
     "defaultNoteTemplate": "",
-    "defaultNoteFolder": ""
+    "defaultNoteFolder": "",
+    "icsNoteFilenameFormat": "title",
+    "customICSNoteFilenameTemplate": "{title}"
   },
   "savedViews": [],
   "pomodoroState": {
@@ -162,7 +164,7 @@
     "timeRemaining": 1500,
     "nextSessionType": "work"
   },
-  "lastPomodoroDate": "2025-08-22",
+  "lastPomodoroDate": "2025-08-25",
   "pomodoroHistory": [
     {
       "id": "1754139076953",
@@ -214,7 +216,7 @@
   "taskPropertyValue": "",
   "enableNotifications": true,
   "notificationType": "system",
-  "enableAPI": true,
+  "enableAPI": false,
   "apiPort": 8080,
   "apiAuthToken": "",
   "webhooks": [
@@ -257,7 +259,10 @@
       "enabled": true,
       "url": "https://dida365.com/pub/calendar/feeds/hfj9xkstbvxp/basic.ics",
       "id": "ics_jgyrj88agmefi2410",
-      "lastFetched": "2025-08-23T13:28:37.973Z"
+      "lastFetched": "2025-08-26T07:55:53.914Z"
     }
-  ]
+  ],
+  "singleClickAction": "edit",
+  "doubleClickAction": "openNote",
+  "userFields": []
 }

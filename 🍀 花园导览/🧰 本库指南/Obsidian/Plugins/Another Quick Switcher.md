@@ -1,14 +1,13 @@
 ---
 date created: 2023-01-23
 date modified: 2025-06-06
-tags:
-  - obsidian插件
-status:
+status: null
 当前是否还在使用: false
-当前使用频率:
+当前使用频率: null
 title: Another Quicker Switcher
 rating: 5
 publish: true
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 ## Another Quick Switcher

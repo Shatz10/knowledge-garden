@@ -2,10 +2,11 @@
 date created: 2022-08-04
 date modified: 2023-03-14
 tags:
-  - moc
-  - todo/持续迭代
+- todo/持续迭代
 title: ∑ 本库 ACCESS 工作流汇总
 publish: true
+分类:
+- '[[MOC内容地图 - fileclass]]'
 ---
 up: [[ACCESS 笔记组织法]]
 

@@ -1,10 +1,10 @@
 ---
 date created: 2022-08-06
 date modified: 2024-10-23
-tags:
-  - 本库教程
 title: AboutTheGarden
 publish: true
+分类:
+- '[[本库教程 - fileclass]]'
 ---
 hello 👋，我是 oldwinter ❄️，一个云计算工程师，写过几万行代码，带过十几人团队。
 

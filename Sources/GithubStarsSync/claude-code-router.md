@@ -2,7 +2,8 @@
 star_date: 2025-06-12 18:15:17
 repo_name: musistudio/claude-code-router
 repo_url: https://github.com/musistudio/claude-code-router
-description: Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+description: Use Claude Code as the foundation for coding infrastructure, allowing
+  you to decide how to interact with the model while enjoying updates from Anthropic.
 language: TypeScript
 stars: 669
 forks: 60
@@ -14,13 +15,13 @@ license: MIT License
 topics: []
 size_kb: 3679
 issues: 15
-tags:
-  - github开源
 date created: 2025-06-18
 date modified: 2025-06-18
 publish: true
 aliases:
-  - ccr
+- ccr
+分类:
+- '[[github开源 - fileclass]]'
 ---
 
 更简洁的竞品：[[y-router]]

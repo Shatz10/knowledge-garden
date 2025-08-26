@@ -4,10 +4,9 @@ date modified: 2023-03-14
 title: Advanced URL
 当前是否还在使用: true
 当前使用频率: 3
-tags:
-  - obsidian插件
 rating: 6
 publish: true
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 iii:: [[小红书|小红书]]

@@ -1,13 +1,12 @@
 ---
 date created: 2025-06-05
 date modified: 2025-07-10
-tags:
-  - obsidian插件
 rating: 6
-status:
+status: null
 publish: true
 aliases:
-  - cubox-sync
+- cubox-sync
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 [[AI 时代，剪藏不是为了稍后看，而是告诉 AI，我喜欢 by 玉伯]]

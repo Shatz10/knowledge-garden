@@ -3,6 +3,8 @@ date created: 2025-06-24
 date modified: 2025-07-09
 publish: true
 是否已review: true
+分类:
+  - "[[工作流workflow - fileclass]]"
 ---
 
 定期整理，批量上传到图床。

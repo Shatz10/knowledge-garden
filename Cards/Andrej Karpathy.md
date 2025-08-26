@@ -2,7 +2,8 @@
 date created: 2025-03-31
 date modified: 2025-03-31
 publish: true
-filetype: person
+分类:
+- '[[person人 - fileclass]]'
 ---
 
 ![](https://pub-pic.oldwinter.top/2025/03/a326a01b3093cf50aeddcd4ade2b5580.png)

@@ -1,11 +1,11 @@
 ---
 date created: 2022-08-05
 date modified: 2023-03-14
-tags:
-  - 本库教程
-  - workflow
 title: » 本库笔记的emoji符号记录
 publish: true
+分类:
+- '[[工作流workflow - fileclass]]'
+- '[[本库教程 - fileclass]]'
 ---
 ## 为什么要给文件名引入emoji
 

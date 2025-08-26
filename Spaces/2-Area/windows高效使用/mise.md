@@ -1,9 +1,6 @@
 ---
 date created: 2025-06-18
 date modified: 2025-07-04
-tags:
-  - linux命令
-  - github开源
 star_date: 2025-06-17 18:01:04
 repo_name: jdx/mise
 repo_url: https://github.com/jdx/mise
@@ -20,6 +17,9 @@ topics: []
 size_kb: 25482
 issues: 43
 publish: true
+分类:
+- '[[linux命令 - fileclass]]'
+- '[[github开源 - fileclass]]'
 ---
 
 在macos和linux上，可以替换掉[[goenv|goenv]]、[[rvm]]、[[vfox]]了。windows还是得继续用这些。

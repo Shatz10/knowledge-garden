@@ -1,14 +1,13 @@
 ---
 date created: 2023-01-23
 date modified: 2023-03-14
-tags:
-  - obsidian插件
-status:
+status: null
 rating: 7
 title: Linter
 publish: true
 aliases:
-  - obsidian-linter
+- obsidian-linter
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 神器，必备。

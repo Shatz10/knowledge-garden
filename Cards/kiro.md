@@ -2,12 +2,12 @@
 date created: 2025-07-15
 date modified: 2025-07-15
 publish: true
-tags:
-  - macOS软件
-  - windows软件
 评价: 4
-icon: "[[kiro-icon-cc-image.png]]"
-跨平台技术栈: "[[Electron]]"
+icon: '[[kiro-icon-cc-image.png]]'
+跨平台技术栈: '[[Electron]]'
+分类:
+- '[[macOS软件 - fileclass]]'
+- '[[windows软件 - fileclass]]'
 ---
 
 [Kiro: The AI IDE for prototype to production](https://kiro.dev/)

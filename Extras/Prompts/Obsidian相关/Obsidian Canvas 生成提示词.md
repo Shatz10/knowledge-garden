@@ -1,6 +1,8 @@
 ---
-tags: [AI生成, prompts]
 publish: true
+分类:
+- '[[提示词prompts - fileclass]]'
+- '[[AI生成 - fileclass]]'
 ---
 
 ### Obsidian Canvas 稳定生成提示词（Advanced Canvas 1.0-1.0）

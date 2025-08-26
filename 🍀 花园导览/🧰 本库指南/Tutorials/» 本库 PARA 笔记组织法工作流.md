@@ -1,12 +1,12 @@
 ---
 date created: 2022-08-04
 date modified: 2025-07-09
-tags:
-  - 本库教程
-  - workflow
 title: » 本库 PARA 笔记组织法工作流
 publish: true
 是否已review: true
+分类:
+- '[[工作流workflow - fileclass]]'
+- '[[本库教程 - fileclass]]'
 ---
 
 x:: [[P.A.R.A]], [[∑ Building a Second Brain 翻译和读书笔记]]

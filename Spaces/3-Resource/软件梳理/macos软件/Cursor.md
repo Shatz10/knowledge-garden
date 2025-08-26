@@ -2,11 +2,6 @@
 date created: 2023-12-02
 date modified: 2024-11-21
 title: Cursor
-tags:
-  - windows软件
-  - macOS软件
-  - AI产品/编程
-  - raycast插件
 当前使用频率: 5
 brew安装命令: brew install --cask cursor
 评价: 7
@@ -17,7 +12,12 @@ icon: "[[cursor-icon-cc-image.jpg]]"
 publish: true
 跨平台技术栈: "[[Electron]]"
 icon-3d: "[[cursor-3d-icon-cc-image.png]]"
-分类: "[[AI产品]]"
+分类:
+  - "[[AI产品 - fileclass]]"
+  - "[[windows软件 - fileclass]]"
+  - "[[AI产品-编程 - fileclass]]"
+  - "[[raycast插件 - fileclass]]"
+  - "[[macOS软件 - fileclass]]"
 ---
 
 [[cursor cli]]

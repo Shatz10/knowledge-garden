@@ -1,10 +1,10 @@
 ---
 date created: 2022-06-09
 date modified: 2024-07-26
-tags:
-  - moc
 title: ∑ linux常用命令行
 publish: true
+分类:
+- '[[MOC内容地图 - fileclass]]'
 ---
 
 - 官方下载 pkg 安装

@@ -12,14 +12,14 @@ pushed_date: 2023-10-08
 is_fork: false
 license: MIT License
 topics:
-  - anki
-  - flashcards
-  - markdown
-  - obsidian
-  - obsidian-plugin
+- anki
+- flashcards
+- markdown
+- obsidian
+- obsidian-plugin
 size_kb: 19532
 issues: 109
-tags:
-  - github开源
 publish: true
+分类:
+- '[[github开源 - fileclass]]'
 ---

@@ -2,17 +2,17 @@
 date created: 2023-07-06
 date modified: 2025-07-11
 aliases:
-  - chatGPT MacOS or Windows 桌面端
-tags:
-  - macOS软件
-  - windows软件
+- chatGPT MacOS or Windows 桌面端
 评价: 5
 brew安装命令: brew install --cask chatgpt
-icon: "[[icon-cc-image-ChatGPT桌面端.png]]"
+icon: '[[icon-cc-image-ChatGPT桌面端.png]]'
 是否已重装: true
 设置同步: 官方账号
 publish: true
 跨平台技术栈: 不同技术栈
+分类:
+- '[[macOS软件 - fileclass]]'
+- '[[windows软件 - fileclass]]'
 ---
 
 优势：

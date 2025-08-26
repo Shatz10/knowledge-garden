@@ -1,9 +1,9 @@
 ---
 title: AIGC
-tags:
-  - AI生成
 publish: true
 是否已review: true
+分类:
+- '[[AI生成 - fileclass]]'
 ---
 
 > AI生成，且未经过审阅修改的，先都放这个目录下。

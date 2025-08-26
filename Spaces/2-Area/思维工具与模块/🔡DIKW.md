@@ -2,14 +2,15 @@
 date created: 2022-06-23
 date modified: 2023-03-14
 tags:
-  - review
+- review
 notetoolbar: SpacedRepetition
 title: 🔡DIKW
 sr-due: 2030-01-29
 sr-interval: 2082
 sr-ease: 314
-filetype: 思维模型
 publish: true
+分类:
+- '[[思维模型 - fileclass]]'
 ---
 
 ## 基础概念

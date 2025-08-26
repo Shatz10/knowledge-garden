@@ -1,13 +1,12 @@
 ---
 date created: 2024-05-11
 date modified: 2025-07-10
-tags:
-  - obsidian插件
-status:
+status: null
 rating: 5
 publish: true
 aliases:
-  - better-search-views
+- better-search-views
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 

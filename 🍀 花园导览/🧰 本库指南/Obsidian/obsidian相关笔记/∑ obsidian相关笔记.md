@@ -1,10 +1,10 @@
 ---
-tags:
-  - MOC
-  - AI生成
 date created: 2025-07-09
 date modified: 2025-07-13
 publish: true
+分类:
+- '[[AI生成 - fileclass]]'
+- '[[MOC内容地图 - fileclass]]'
 ---
 
 # ∑ Obsidian 相关笔记

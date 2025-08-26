@@ -4,11 +4,10 @@ date modified: 2023-03-14
 title: Admonition
 当前是否还在使用: false
 当前使用频率: 0
-tags:
-  - obsidian插件
 rating: 3
-status:
+status: null
 publish: true
+分类: "[[obsidian插件 - fileclass]]"
 ---
 
 > 应该算是被obsidian官方的callout功能淘汰了，其他功能我也用不上。
