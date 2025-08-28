@@ -2,7 +2,7 @@
 title: chrome必装插件
 date created: 2022-06-09
 date modified: 2025-07-25
-PARA: Resources
+PARA: "[[∑ 3-Resource]]"
 publish: true
 ---
 

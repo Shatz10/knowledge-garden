@@ -14,7 +14,9 @@
     "hide-file-add-splitline",
     "editor-full",
     "toggle-canvas-header",
-    "notice-bottom-right"
+    "notice-bottom-right",
+    "toggle-base-headers",
+    "toggle-frontmatter"
   ],
   "showViewHeader": true,
   "cssTheme": "Willemstad",

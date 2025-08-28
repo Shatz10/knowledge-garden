@@ -1,12 +1,13 @@
 ---
 date created: 2024-05-11
 date modified: 2025-06-06
-status: null
+status:
 rating: 7
 publish: true
 aliases:
-- note-toolbar
-分类: "[[obsidian插件 - fileclass]]"
+  - note-toolbar
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 神器。

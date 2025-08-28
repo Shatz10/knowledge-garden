@@ -24,9 +24,9 @@
   "calendarViewSettings": {
     "defaultView": "dayGridMonth",
     "customDayCount": 5,
-    "slotDuration": "00:30:00",
-    "slotMinTime": "00:00:00",
-    "slotMaxTime": "24:00:00",
+    "slotDuration": "01:00:00",
+    "slotMinTime": "08:00:00",
+    "slotMaxTime": "20:00:00",
     "scrollTime": "08:00:00",
     "firstDay": 1,
     "timeFormat": "24",
@@ -37,7 +37,7 @@
     "defaultShowTimeEntries": false,
     "defaultShowRecurring": true,
     "defaultShowICSEvents": true,
-    "enableTimeblocking": false,
+    "enableTimeblocking": true,
     "defaultShowTimeblocks": true,
     "nowIndicator": true,
     "selectMirror": true,
@@ -259,7 +259,7 @@
       "enabled": true,
       "url": "https://dida365.com/pub/calendar/feeds/hfj9xkstbvxp/basic.ics",
       "id": "ics_jgyrj88agmefi2410",
-      "lastFetched": "2025-08-26T07:55:53.914Z"
+      "lastFetched": "2025-08-28T11:30:48.472Z"
     }
   ],
   "singleClickAction": "edit",

@@ -336,5 +336,7 @@
   "supercharged-links@@cat1-0046-before": "🐙 ",
   "supercharged-links@@cat1-0047-before": "☁️🧠 ",
   "supercharged-links@@2c14-e939-background-color": "#C6A944",
-  "supercharged-links@@c-2c14-e939-use-background": true
+  "supercharged-links@@c-2c14-e939-use-background": true,
+  "base-settings@@ssopt-base-hide-headers": false,
+  "frontmatter-settings@@ssopt-frontmatter-hide": false
 }

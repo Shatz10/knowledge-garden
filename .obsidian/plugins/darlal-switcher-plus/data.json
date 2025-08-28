@@ -296,7 +296,7 @@
     "shouldResetActiveFacets": false,
     "shouldShowFacetInstructions": true
   },
-  "preserveCommandPaletteLastInput": false,
+  "preserveCommandPaletteLastInput": true,
   "preserveQuickSwitcherLastInput": true,
   "shouldCloseModalOnBackspace": false,
   "maxRecentFileSuggestionsOnInit": 75,

@@ -1,13 +1,14 @@
 ---
 date created: 2024-05-11
 date modified: 2025-08-07
-status: null
+status:
 rating: 7
 publish: true
 一句话理由: 两个+号，还是保守了，我愿意给6个⭐️
 aliases:
-- darlal-switcher-plus
-分类: "[[obsidian插件 - fileclass]]"
+  - darlal-switcher-plus
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 满分，神器。
@@ -41,3 +42,5 @@ aliases:
 ![CleanShot 2025-07-28 at 18.39.46@2x.png](https://pub-pic.oldwinter.top/2025/07/f70d717548df8eb29ecaa397ac85dc48.png)
 
 这个配置如果打开，会导致输入法的第一个输入被吞，所以先不打开了。
+
+2025-08-28：最新版本已经修复此问题，重新打开这个选项了。

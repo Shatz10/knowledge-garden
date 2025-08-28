@@ -2,17 +2,16 @@
 date created: 2024-02-04
 date modified: 2024-10-28
 相关笔记:
-- '[[Perplexity sonar api token]]'
+  - "[[Perplexity sonar api token]]"
 publish: true
 aliases:
-- perplexity.ai
-- pplx
+  - perplexity.ai
+  - pplx
 评价: 4
 分类:
-- '[[LLM Models - fileclass]]'
-- '[[安卓软件 - fileclass]]'
-- '[[AI产品 - fileclass]]'
-icon: '[[Perplexity-icon-cc-image.png]]'
+  - "[[安卓软件 - fileclass]]"
+  - "[[AI产品 - fileclass]]"
+icon: "[[Perplexity-icon-cc-image.png]]"
 一句话评价: 耍猴营销之王
 发明地: 美国
 是否在用: true

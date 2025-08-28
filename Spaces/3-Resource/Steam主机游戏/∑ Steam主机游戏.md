@@ -1,7 +1,7 @@
 ---
 date created: 2025-07-06
 date modified: 2025-07-12
-PARA: Resources
+PARA: "[[∑ 3-Resource]]"
 publish: true
 ---
 

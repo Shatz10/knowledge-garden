@@ -3,9 +3,8 @@ date created: 2025-01-16
 date modified: 2025-02-26
 publish: true
 分类:
-- '[[LLM Models - fileclass]]'
-- '[[AI产品 - fileclass]]'
-icon: '[[Deepseek-icon-cc-image.jpg]]'
+  - "[[AI产品 - fileclass]]"
+icon: "[[Deepseek-icon-cc-image.jpg]]"
 一句话评价: 天下何人不识君
 发明地: 中国
 是否在用: true

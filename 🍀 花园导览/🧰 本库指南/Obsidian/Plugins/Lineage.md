@@ -2,14 +2,15 @@
 date created: 2025-04-28
 date modified: 2025-07-09
 相关笔记:
-- '[[gingko]]'
+  - "[[gingko]]"
 rating: 5
 aliases:
-- 类似gingko的插件
-- lineage
-status: null
+  - 类似gingko的插件
+  - lineage
+status:
 publish: true
-分类: "[[obsidian插件 - fileclass]]"
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 相比使用[[gingko]]的优势：

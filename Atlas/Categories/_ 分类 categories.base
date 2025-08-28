@@ -17,3 +17,5 @@ views:
     sort:
       - property: formula.数量
         direction: ASC
+    columnSize:
+      file.name: 159

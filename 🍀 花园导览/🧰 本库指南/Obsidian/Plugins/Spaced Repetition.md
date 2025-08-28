@@ -1,14 +1,15 @@
 ---
 date created: 2022-06-09
 date modified: 2023-03-14
-status: null
+status:
 rating: 6
 publish: true
 aliases:
-- 间隔重复
-- obsidian-spaced-repetition
+  - 间隔重复
+  - obsidian-spaced-repetition
 title: Spaced Repetition
-分类: "[[obsidian插件 - fileclass]]"
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 多个闪卡插件，还是最喜欢这个，给笔记本身作为闪卡，从而不会污染笔记格式。

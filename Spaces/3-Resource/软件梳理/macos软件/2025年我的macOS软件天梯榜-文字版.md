@@ -94,7 +94,7 @@ permalink: 2025/my-macos-ranks
 - [[Heptabase]]
 - [[豆包]]
 - [[Onedrive]]
-- [[parallels Desk]]
+- [[Parallels Desktop]]
 - [[Canva]]
 
 ## D

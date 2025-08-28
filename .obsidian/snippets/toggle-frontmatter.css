@@ -1,0 +1,26 @@
+/* 通过style settings插件，提供一个command快捷命令，隐藏/打开markdown文档的frontmatter显示 */
+
+/* @settings
+name: Frontmatter Settings
+id: frontmatter-settings
+settings:
+-
+    id: frontmatter-settings
+    title: Frontmatter
+    type: heading
+    description: 'Options to manipulate frontmatter display in Markdown documents.'
+    level: 2
+    collapsed: false
+-
+    id: ssopt-frontmatter-hide
+    title: Hide Frontmatter
+    type: class-toggle
+    description: "When enabled, hides the frontmatter section in Markdown documents."
+    default: false
+    addCommand: true
+*/
+
+/* Hide frontmatter when enabled */
+.ssopt-frontmatter-hide .metadata-container {
+    display: none !important;
+}

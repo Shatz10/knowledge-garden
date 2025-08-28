@@ -1,13 +1,14 @@
 ---
 date created: 2024-05-11
 date modified: 2025-07-10
-status: null
+status:
 rating: 6
 publish: true
 title: Douban
 aliases:
-- obsidian-douban-plugin
-分类: "[[obsidian插件 - fileclass]]"
+  - obsidian-douban-plugin
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 

@@ -1,13 +1,16 @@
 ---
+分类:
+  - "[[提示词prompts - fileclass]]"
+aliases:
+tags:
 date created: 2024-11-04
-date modified: 2024-11-06
+date modified: 2025-08-27
 publish: true
 ---
 
 如果要样式精美，最推荐的是[[chatgpt 与 svg画图]]
 
 也可以用Graphviz画[[chatgpt 可视化 Graphviz]]
-
 
 ## 阅读材料可视化
 
@@ -16,7 +19,6 @@ publish: true
 ![](https://pub-pic.oldwinter.top/2024/11/7fcf198434c4e6eb5a689fcd32f10ea5.png)
 
 ##
-
 
 ## 参考
 

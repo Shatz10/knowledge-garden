@@ -6,13 +6,13 @@ title: Cubox
 brew安装命令: brew install --cask cubox
 作用: 网络文章剪藏
 当前使用频率: 4
-icon: '[[icon-cc-image-cubox icon-cc-image.png]]'
+icon: "[[icon-cc-image-cubox icon-cc-image.png]]"
 publish: true
 aliases:
-- cubox-sync
+  - cubox-sync
 分类:
-- '[[obsidian插件 - fileclass]]'
-- '[[windows软件 - fileclass]]'
+  - "[[obsidian插件 - fileclass]]"
+  - "[[windows软件 - fileclass]]"
 ---
 
 插件：[[Cubox Chrome 剪藏插件]]

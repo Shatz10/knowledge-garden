@@ -1,0 +1,26 @@
+/* 通过style settings插件，提供一个command快捷命令，隐藏/打开base的表头显示 */
+
+/* @settings
+name: Base Settings
+id: base-settings
+settings:
+-
+    id: base-settings
+    title: Bases
+    type: heading
+    description: 'Options to manipulate items in the Bases.'
+    level: 2
+    collapsed: false
+-
+    id: ssopt-base-hide-headers
+    title: Hide Base Headers
+    type: class-toggle
+    description: "When enabled, hides the headers in Bases."
+    default: false
+    addCommand: true
+*/
+
+/* Hide base headers when enabled */
+.ssopt-base-hide-headers .bases-header {
+    display: none !important;
+}

@@ -1,12 +1,13 @@
 ---
 date created: 2024-05-11
 date modified: 2025-07-10
-status: null
+status:
 rating: 5
 publish: true
 aliases:
-- obsidian42-brat
-分类: "[[obsidian插件 - fileclass]]"
+  - obsidian42-brat
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 和[[Strange New Worlds]]同作者。

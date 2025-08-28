@@ -73,7 +73,7 @@ Spaces下全部PARA内的MOC文件
 	- [[∑ 个人职业生涯]]
 	- [[∑ Fronted roadmap 前端路线图]]
 	- [[∑ 云计算与云原生]]
-	- [[∑ 运动与健康]]
+	- [[∑ 运动健康]]
 	- [[∑ DevOps roadmap 运维路线图]]
 	- [[∑ 知识管理]]
 - Resource

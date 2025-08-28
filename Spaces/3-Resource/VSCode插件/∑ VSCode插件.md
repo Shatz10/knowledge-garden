@@ -2,7 +2,7 @@
 title: vscode必备插件
 date created: 2022-06-01
 date modified: 2025-05-31
-PARA: Resources
+PARA: "[[∑ 3-Resource]]"
 publish: true
 ---
 

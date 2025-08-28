@@ -73,7 +73,7 @@ publish: true
 - [x] [[QuickRecorder]]
 - [x] [[UTM]] ✅ 2024-07-23
 	- [x] [[VMware]] ✅ 2024-07-23
-	- [x] [[parallels Desk]]
+	- [x] [[Parallels Desktop]]
 - [x] [[Steam]] ✅ 2024-07-23
 	- [x] 只有 intel 架构版本，不用了。 ✅ 2024-07-23
 - [x] [[Amnesia macos软件]] ✅ 2025-06-25

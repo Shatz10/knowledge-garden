@@ -31,6 +31,7 @@
     "cover": "text",
     "isbn": "number",
     "lastReadDate": "datetime",
-    "fields": "text"
+    "fields": "text",
+    "prompts-model": "multitext"
   }
 }

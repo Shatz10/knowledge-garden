@@ -1,12 +1,13 @@
 ---
 date created: 2024-05-11
 date modified: 2025-06-15
-status: null
+status:
 rating: 5
 publish: true
 aliases:
-- better-export-pdf
-分类: "[[obsidian插件 - fileclass]]"
+  - better-export-pdf
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 ## Better Export PDF

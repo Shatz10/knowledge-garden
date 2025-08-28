@@ -1,13 +1,14 @@
 ---
 date created: 2024-05-11
 date modified: 2025-07-10
-status: null
+status:
 rating: 7
 publish: true
 一句话理由: 目前为止我的小红书笔记全是它的身影
 aliases:
-- advanced-canvas
-分类: "[[obsidian插件 - fileclass]]"
+  - advanced-canvas
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 2025-6-7 新版本可以完全平替掉[[Enhanced Canvas|Enhanced Canvas]]的功能，只需要到反向面板中查看既可，而且也能直接跳转到canvas中对应的位置，而且canvas中的卡片如果有引用，也可以显示。

@@ -2,11 +2,12 @@
 date created: 2025-06-06
 date modified: 2025-07-13
 rating: 5
-status: null
+status:
 publish: true
 aliases:
-- obsidian-export-image
-分类: "[[obsidian插件 - fileclass]]"
+  - obsidian-export-image
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 ## 小红书图片笔记推荐

@@ -1,8 +1,53 @@
 # Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+
+# Plugin/temp directories
 .smart-connections/*
-# .obsidian/*
+.smart-env/*
 .fileorganizer2000/*
 .trash/*
-Extras/Media
-.fileorganizer2000/*
-.smart-env/*
+
+# OS/cache/build artifacts
+.DS_Store
+**/.DS_Store
+**/Thumbs.db
+**/__pycache__/**
+**/.mypy_cache/**
+**/.pytest_cache/**
+**/node_modules/**
+**/dist/**
+**/build/**
+
+# Binary/media assets (keep Markdown/Canvas/BASE indexed)
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.svg
+**/*.webp
+**/*.heic
+**/*.avif
+**/*.mp4
+**/*.mov
+**/*.mp3
+**/*.wav
+**/*.flac
+**/*.pdf
+
+# Archives/containers
+**/*.zip
+**/*.tar
+**/*.tar.*
+**/*.tgz
+**/*.tbz2
+**/*.txz
+**/*.7z
+**/*.rar
+**/*.u8
+**/*.ico
+**/*.icns
+
+# Obsidian internals (keep indexed unless noise)
+# .obsidian/*
+
+# Optional project paths
+# Extras/Media

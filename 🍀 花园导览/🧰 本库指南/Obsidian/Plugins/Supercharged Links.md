@@ -1,14 +1,15 @@
 ---
 date created: 2022-06-09
 date modified: 2025-07-10
-status: null
+status:
 title: Supercharged Links
 rating: 7
 publish: true
 一句话理由: 给不同类型的文件染色，搜索的时候一眼区分
 aliases:
-- supercharged-links-obsidian
-分类: "[[obsidian插件 - fileclass]]"
+  - supercharged-links-obsidian
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 神器啊神器。作者为什么弃坑了？

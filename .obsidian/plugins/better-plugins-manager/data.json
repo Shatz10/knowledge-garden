@@ -608,9 +608,9 @@
       "note": ""
     },
     {
-      "id": "sticky-notes",
-      "name": "Sticky Notes",
-      "desc": "Create sticky notes popups.",
+      "id": "mermaid-popup",
+      "name": "Diagram Popup",
+      "desc": "Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable and zoomable popup",
       "group": "",
       "tags": [],
       "enabled": true,

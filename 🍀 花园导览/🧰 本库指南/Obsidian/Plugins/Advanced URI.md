@@ -1,12 +1,13 @@
 ---
 date created: 2024-05-11
 date modified: 2025-07-10
-status: null
+status:
 rating: 2
 publish: true
 aliases:
-- obsidian-advanced-uri
-分类: "[[obsidian插件 - fileclass]]"
+  - obsidian-advanced-uri
+分类:
+  - "[[obsidian插件 - fileclass]]"
 ---
 
 给每个笔记生成一个固定id，这样可以维持链接的稳定性，外部调用obsidian内部的时候，不至于当笔记移动的时候，调用或打开失败。
