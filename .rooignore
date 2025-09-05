@@ -1,0 +1,11 @@
+.obsidian
+.cursor
+.vscode
+
+## qoder超过6000个文件不索引
+## warp超过10000个文件不索引
+ 
+Calendar/
+
+Extras/
+Sources/

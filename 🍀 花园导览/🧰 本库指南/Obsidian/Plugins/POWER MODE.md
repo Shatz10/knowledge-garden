@@ -1,6 +1,7 @@
 ---
+tags: 
 date created: 2025-04-28
-date modified: 2025-07-10
+date modified: 2025-08-30
 rating: 6
 status:
 publish: true
@@ -12,3 +13,5 @@ aliases:
 ---
 
 提供情绪价值！！必须有用！！
+
+2025-08-30：感觉 让 macos 26 beta变得卡了，先停用。

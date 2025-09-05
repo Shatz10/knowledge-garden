@@ -21,12 +21,15 @@ publish: true
 - [[使用CFF法则优化夸人语句]]
 	- [[CFF法则 - 夸奖别人的方法|CFF]]
 - [[全文中文对照翻译]]
+- [[小红书爆款标题生成]]
 
 ## 图片生成类
 
 [AI Prompt Library](https://aifra.me/library)
 
 [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+
+nano banana： [GitHub - JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
 
 图库参考sora官方：[Sora](https://sora.com/explore/images)
 
@@ -54,6 +57,7 @@ publish: true
 - [[元提示词 - 优化提示词 - 优化prompts]]
 - [[阴阳怪气大师]]
 - [[行业深度洞察大师]]
+- [[youtube视频提炼-转成blog风格]]
 
 ## 查询、检索
 
@@ -84,6 +88,8 @@ publish: true
 
 [[openai新的学习模式系统提示词]]
 
-## 其他
+## 其他 obsidian等
 
 [[Obsidian advanced canvas 生成]]
+[[obsidian canvas 深度分析内容]]
+[[使用LLM生成obsidian canvas帮助日常阅读理解长文章]]

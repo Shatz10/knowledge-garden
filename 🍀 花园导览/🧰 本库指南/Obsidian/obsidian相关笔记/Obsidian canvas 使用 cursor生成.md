@@ -1,8 +1,6 @@
 ---
 date created: 2025-06-08
 date modified: 2025-06-27
-tags:
-  - AI教程
 publish: true
 ---
 

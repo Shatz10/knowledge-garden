@@ -30,3 +30,22 @@ Changelog:
 Support me if you'd like me to publish Obsidian things more often:
 
 <https://github.com/sponsors/KillyMXI>
+
+----
+
+## 新增 Snippets
+
+### distinguish-links-pdf.css
+- **用途**: PDF导出时区分内部链接和外部链接
+- **功能**:
+  - 内部链接（[[双链]]）前面显示 📄 文档图标，蓝色
+  - 外部链接前面显示 🔗 链接图标，绿色
+  - 移除所有链接的下划线
+  - 仅在PDF导出时生效，不影响正常编辑体验
+
+- **使用方法**: 在文档frontmatter中添加 `cssclasses: [distinguish-links]`
+
+- **效果**:
+  - 内部链接：显示为蓝色，后面添加 `📄 inner` 标识
+  - 外部链接：显示为绿色，前面添加 🔗 图标
+  - 所有链接都没有下划线

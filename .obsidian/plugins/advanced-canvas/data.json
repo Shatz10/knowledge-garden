@@ -12,10 +12,10 @@
   "minNodeSize": 60,
   "maxNodeWidth": -1,
   "disableFontSizeRelativeToZoom": false,
-  "canvasMetadataCompatibilityEnabled": false,
+  "canvasMetadataCompatibilityEnabled": true,
   "treatFileNodeEdgesAsLinks": false,
   "enableSingleNodeLinks": true,
-  "combineCustomStylesInDropdown": false,
+  "combineCustomStylesInDropdown": true,
   "nodeStylingFeatureEnabled": true,
   "customNodeStyleAttributes": [],
   "defaultTextNodeStyleAttributes": {},
@@ -54,10 +54,10 @@
   "collapsedGroupPreviewOnDrag": true,
   "focusModeFeatureEnabled": false,
   "presentationFeatureEnabled": true,
-  "showSetStartNodeInPopup": true,
+  "showSetStartNodeInPopup": false,
   "defaultSlideDimensions": [
-    1200,
-    675
+    1280,
+    720
   ],
   "wrapInSlidePadding": 20,
   "resetViewportOnPresentationEnd": true,

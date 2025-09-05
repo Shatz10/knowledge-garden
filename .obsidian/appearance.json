@@ -16,15 +16,16 @@
     "toggle-canvas-header",
     "notice-bottom-right",
     "toggle-base-headers",
-    "toggle-frontmatter"
+    "toggle-frontmatter",
+    "distinguish-links-pdf"
   ],
   "showViewHeader": true,
   "cssTheme": "Willemstad",
-  "theme": "system",
+  "theme": "moonstone",
   "translucency": false,
-  "textFontFamily": "LXGW WenKai GB Screen,霞鹜文楷",
-  "interfaceFontFamily": "LXGW WenKai GB Screen,霞鹜文楷",
-  "monospaceFontFamily": "LXGW WenKai Mono GB Screen,霞鹜文楷",
+  "textFontFamily": "霞鹜文楷",
+  "interfaceFontFamily": "霞鹜文楷",
+  "monospaceFontFamily": "霞鹜文楷",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "showRibbon": false

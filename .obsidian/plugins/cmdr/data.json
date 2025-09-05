@@ -46,7 +46,7 @@
       "id": "fix-require-modules:invokeScriptFile-切换review标签和notetoolbar的properties.ts",
       "icon": "lucide-brain-circuit",
       "name": "CodeScript Toolkit: Invoke Script: 切换review标签和notetoolbar的properties.ts",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#00f068"
     },
     {

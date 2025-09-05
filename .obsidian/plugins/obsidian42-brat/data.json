@@ -1,6 +1,18 @@
 {
-  "pluginList": [],
-  "pluginSubListFrozenVersion": [],
+  "pluginList": [
+    "wanglin2/obsidian-simplemindmap",
+    "anareaty/pretty-properties"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "wanglin2/obsidian-simplemindmap",
+      "version": "latest"
+    },
+    {
+      "repo": "anareaty/pretty-properties",
+      "version": "latest"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,

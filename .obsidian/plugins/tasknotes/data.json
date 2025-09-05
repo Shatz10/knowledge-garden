@@ -3,7 +3,7 @@
   "taskTag": "task",
   "excludedFolders": "",
   "defaultTaskPriority": "normal",
-  "defaultTaskStatus": "open",
+  "defaultTaskStatus": "none",
   "taskOrgFiltersCollapsed": false,
   "taskFilenameFormat": "zettel",
   "storeTitleInFilename": true,
@@ -16,7 +16,7 @@
     "defaultTimeEstimate": 0,
     "defaultRecurrence": "none",
     "defaultDueDate": "none",
-    "defaultScheduledDate": "today",
+    "defaultScheduledDate": "none",
     "bodyTemplate": "",
     "useBodyTemplate": false,
     "defaultReminders": []
@@ -26,11 +26,12 @@
     "customDayCount": 5,
     "slotDuration": "01:00:00",
     "slotMinTime": "08:00:00",
-    "slotMaxTime": "20:00:00",
+    "slotMaxTime": "24:00:00",
     "scrollTime": "08:00:00",
     "firstDay": 1,
     "timeFormat": "24",
     "showWeekends": true,
+    "locale": "",
     "defaultShowScheduled": true,
     "defaultShowDue": true,
     "defaultShowDueWhenScheduled": true,
@@ -164,7 +165,7 @@
     "timeRemaining": 1500,
     "nextSessionType": "work"
   },
-  "lastPomodoroDate": "2025-08-25",
+  "lastPomodoroDate": "2025-09-02",
   "pomodoroHistory": [
     {
       "id": "1754139076953",
@@ -207,16 +208,195 @@
           "endTime": "2025-08-02T21:21:28.298+08:00"
         }
       ]
+    },
+    {
+      "id": "1756743617258",
+      "startTime": "2025-09-02T00:20:17.258+08:00",
+      "endTime": "2025-09-02T00:21:41.685+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "Calendar/Tasks/高山流水遇知音-2.md",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-02T00:20:17.258+08:00",
+          "endTime": "2025-09-02T00:21:41.685+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756743759551",
+      "startTime": "2025-09-02T00:22:39.551+08:00",
+      "endTime": "2025-09-02T00:23:04.396+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "Calendar/Tasks/高山流水遇知音-2.md",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-02T00:22:39.551+08:00",
+          "endTime": "2025-09-02T00:22:44.886+08:00"
+        },
+        {
+          "startTime": "2025-09-02T00:22:47.874+08:00",
+          "endTime": "2025-09-02T00:23:02.731+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756793216968",
+      "startTime": "2025-09-02T14:06:56.967+08:00",
+      "endTime": "2025-09-02T14:07:00.186+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "Calendar/Tasks/高山流水遇知音.md",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-02T14:06:56.967+08:00",
+          "endTime": "2025-09-02T14:06:58.674+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756793258622",
+      "startTime": "2025-09-02T14:07:38.622+08:00",
+      "endTime": "2025-09-02T14:33:21.044+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "Calendar/Tasks/aaaaaa.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-02T14:07:38.622+08:00",
+          "endTime": "2025-09-02T14:33:21.044+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756794805152",
+      "startTime": "2025-09-02T14:33:25.152+08:00",
+      "endTime": "2025-09-02T14:47:52.825+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-02T14:33:25.152+08:00",
+          "endTime": "2025-09-02T14:47:52.826+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756795700922",
+      "startTime": "2025-09-02T14:48:20.922+08:00",
+      "endTime": "2025-09-02T15:13:20.770+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "Calendar/Tasks/aaaaaa.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-02T14:48:20.922+08:00",
+          "endTime": "2025-09-02T15:13:20.770+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756797203601",
+      "startTime": "2025-09-02T15:13:23.601+08:00",
+      "endTime": "2025-09-02T15:18:24.180+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-02T15:13:23.601+08:00",
+          "endTime": "2025-09-02T15:18:24.181+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756896508648",
+      "startTime": "2025-09-03T18:48:28.648+08:00",
+      "endTime": "2025-09-03T18:48:32.027+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-03T18:48:28.648+08:00",
+          "endTime": "2025-09-03T18:48:31.358+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756896518720",
+      "startTime": "2025-09-03T18:48:38.720+08:00",
+      "endTime": "2025-09-03T20:24:19.110+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "Calendar/Tasks/ai产品推荐榜单.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-03T18:48:38.720+08:00",
+          "endTime": "2025-09-03T20:24:19.110+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756902262177",
+      "startTime": "2025-09-03T20:24:22.177+08:00",
+      "endTime": "2025-09-03T20:29:22.197+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-03T20:24:22.177+08:00",
+          "endTime": "2025-09-03T20:29:22.197+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756902602716",
+      "startTime": "2025-09-03T20:30:02.716+08:00",
+      "endTime": "2025-09-03T20:55:02.429+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "Calendar/Tasks/claude code 快捷命令 一图流.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-03T20:30:02.716+08:00",
+          "endTime": "2025-09-03T20:55:02.429+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1756904105244",
+      "startTime": "2025-09-03T20:55:05.244+08:00",
+      "endTime": "2025-09-03T21:00:05.503+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-09-03T20:55:05.244+08:00",
+          "endTime": "2025-09-03T21:00:05.503+08:00"
+        }
+      ]
     }
   ],
   "showExpandableSubtasks": true,
   "projectSubtasksPosition": "bottom",
   "taskIdentificationMethod": "tag",
-  "taskPropertyName": "",
-  "taskPropertyValue": "",
+  "taskPropertyName": "分类",
+  "taskPropertyValue": "[[任务 - fileclass]]",
   "enableNotifications": true,
   "notificationType": "system",
-  "enableAPI": false,
+  "enableAPI": true,
   "apiPort": 8080,
   "apiAuthToken": "",
   "webhooks": [
@@ -259,10 +439,23 @@
       "enabled": true,
       "url": "https://dida365.com/pub/calendar/feeds/hfj9xkstbvxp/basic.ics",
       "id": "ics_jgyrj88agmefi2410",
-      "lastFetched": "2025-08-28T12:00:49.777Z"
+      "lastFetched": "2025-09-05T13:38:58.274Z"
     }
   ],
   "singleClickAction": "edit",
   "doubleClickAction": "openNote",
-  "userFields": []
+  "userFields": [],
+  "statusSuggestionTrigger": "*",
+  "suggestionDebounceMs": 0,
+  "defaultVisibleProperties": [
+    "status",
+    "priority",
+    "due",
+    "scheduled",
+    "projects",
+    "contexts",
+    "tags"
+  ],
+  "maintainDueDateOffsetInRecurring": false,
+  "lastSelectedTaskPath": "Calendar/Tasks/claude code 快捷命令 一图流.md"
 }

@@ -700,6 +700,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "project",
+      "value": "categories",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "a0b0-51e2",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ],
   "presetFields": [],

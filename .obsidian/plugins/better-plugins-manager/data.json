@@ -186,7 +186,7 @@
       "group": "default",
       "tags": [],
       "enabled": true,
-      "delay": "30秒",
+      "delay": "",
       "note": ""
     },
     {
@@ -375,7 +375,7 @@
       "desc": "Active POWER MODE!!!!",
       "group": "高频",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "30秒",
       "note": ""
     },
@@ -427,16 +427,6 @@
       "tags": [],
       "enabled": true,
       "delay": "30秒",
-      "note": ""
-    },
-    {
-      "id": "note-status",
-      "name": "Note Status",
-      "desc": "Enhance your note organization with a status management system. Assign and track statuses (active, on hold, completed, dropped) for your notes with a customizable interface including status pane, dropdown, and file explorer integration.",
-      "group": "高频",
-      "tags": [],
-      "enabled": true,
-      "delay": "default",
       "note": ""
     },
     {
@@ -546,16 +536,6 @@
       "note": ""
     },
     {
-      "id": "backlink-cache",
-      "name": "Backlink Cache",
-      "desc": "Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`",
-      "group": "高频",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
       "id": "advanced-canvas",
       "name": "Advanced Canvas",
       "desc": "Supercharge your canvas experience! Create presentations, flowcharts and more!",
@@ -592,15 +572,37 @@
       "name": "Matrix Rain",
       "desc": "从当前聚焦笔记抽取字符，显示黑客帝国矩阵雨。支持全屏或仅活跃 leaf 覆盖，并可配置参数。",
       "group": "",
-      "tags": [],
+      "tags": [
+        "12345"
+      ],
       "enabled": true,
       "delay": "default",
       "note": ""
     },
     {
-      "id": "ravenhogwarts-toolkit",
-      "name": "RavenHogwarts's Toolkit",
-      "desc": "A personal toolkit plugin (OTK) that integrates various utilities, designed to enhance personal note-taking experience.",
+      "id": "mermaid-popup",
+      "name": "Diagram Popup",
+      "desc": "Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable and zoomable popup",
+      "group": "经常",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "omnisearch",
+      "name": "Omnisearch",
+      "desc": "A search engine that just works",
+      "group": "探索",
+      "tags": [],
+      "enabled": false,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "backlink-cache",
+      "name": "Backlink Cache",
+      "desc": "Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`",
       "group": "",
       "tags": [],
       "enabled": false,
@@ -608,12 +610,42 @@
       "note": ""
     },
     {
-      "id": "mermaid-popup",
-      "name": "Diagram Popup",
-      "desc": "Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable and zoomable popup",
+      "id": "semantic-command-search",
+      "name": "Semantic Command Search",
+      "desc": "Use an LLM to semantically search all available commands (no RAG).",
       "group": "",
       "tags": [],
       "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-github-stars-manager",
+      "name": "GitHub Stars Manager",
+      "desc": "在 Obsidian 中管理你的 GitHub Stars。",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "image-upload-toolkit",
+      "name": "Image Upload Toolkit",
+      "desc": "Upload local images to remote store (Imgur, AliYun OSS, Imagekit, Amazon S3, TencentCloud COS and Qiniu Kodo).",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "simple-mind-map",
+      "name": "Simple mind map",
+      "desc": "A relatively powerful mind map.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
       "delay": "",
       "note": ""
     }

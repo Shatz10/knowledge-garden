@@ -208,28 +208,31 @@
 
 @media (max-width: 600px) {
   .metadata-side-image {
-    width: 100%;
     text-align: center;
   }
   
   .metadata-side-image img {
-    height: 200px;
+    height: 200px !important;
+	width: auto !important;
     margin: auto;
   }
 
+  .metadata-side-image.vertical img,
   .metadata-side-image.vertical-cover img,
   .metadata-side-image.vertical-contain img {
     aspect-ratio: auto !important;
-    object-fit: contain !important;
+    max-width: 150px !important;
   }
 
-  .metadata-side-image.horizontal-contain img {
-    object-fit: cover !important;
+  .metadata-side-image.horizontal img,
+  .metadata-side-image.horizontal-cover img,
+  .metadata-side-image.horizontal-contain img{
+    width: 100% !important;
   }
 
   .metadata-side-image.square img,
   .metadata-side-image.circle img {
-    width: 200px;
+    width: 200px !important;
   }
 }
 
@@ -622,38 +625,6 @@ body {
 }
 
 
-.setting-item.color-red .multi-select-pill {
-    --pill-color-rgb: var(--color-red-rgb);
-}
-
-.setting-item.color-orange .multi-select-pill {
-    --pill-color-rgb: var(--color-orange-rgb);
-}
-
-.setting-item.color-yellow .multi-select-pill {
-    --pill-color-rgb: var(--color-yellow-rgb);
-}
-
-.setting-item.color-green .multi-select-pill {
-    --pill-color-rgb: var(--color-green-rgb);
-}
-
-.setting-item.color-cyan .multi-select-pill {
-    --pill-color-rgb: var(--color-cyan-rgb);
-}
-
-.setting-item.color-blue .multi-select-pill {
-    --pill-color-rgb: var(--color-blue-rgb);
-}
-
-.setting-item.color-purple .multi-select-pill {
-    --pill-color-rgb: var(--color-purple-rgb);
-}
-
-.setting-item.color-pink .multi-select-pill {
-    --pill-color-rgb: var(--color-pink-rgb);
-}
-
 
 
 .prompt-setting,
@@ -679,3 +650,211 @@ body {
 .position-setting input[type='range'] {
   width: 100%;
 	}
+
+
+body {
+  --longtext-margin: 0;
+}
+
+.metadata-input-longtext {
+  border-radius: 4px;
+  display: block;
+  margin: var(--longtext-margin);
+  padding: 0px var(--pill-padding-x);
+  max-width: fit-content;
+  background-color: var(--longtext-bg-color); 
+}
+
+.bases-table-cell .metadata-input-longtext {
+  padding: 1px var(--tag-padding-x);
+}
+
+.setting-item-name .metadata-input-longtext {
+  padding: 2px var(--tag-padding-x);
+}
+
+.bases-cards-line[data-property-longtext-value] {
+  border-radius: 4px;
+  display: block;
+  margin: var(--longtext-margin);
+  margin-top:0;
+  margin-bottom: 0;
+  background-color: var(--longtext-bg-color); 
+}
+
+
+
+.markdown-preview-view .metadata-property-value:hover .metadata-input-longtext,
+.markdown-source-view .metadata-property-value:hover .metadata-input-longtext,
+.metadata-input-longtext:focus {
+  max-width: unset;
+  background-color: initial;
+
+}
+
+
+button.longtext-color-button {
+  margin: 2px !important;
+  border: none;
+  box-shadow: none;
+  background-color: var(--background-primary);
+  height: calc(var(--input-height) - 4px);
+  width: 2.5em;
+  display: none;
+  color: var(--text-muted);
+  padding: unset;
+  position: absolute;
+  right: 0;
+  top: 0;
+  opacity: 0.2;
+}
+
+
+
+button.longtext-color-button:hover {
+  background-color: var(--background-primary-alt);
+  opacity: 1;
+}
+
+.metadata-property-value:hover button.longtext-color-button, .longtext-color-button:active {
+  display: flex;
+}
+
+
+.metadata-circle-progress {
+  height: calc(100% - 8px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  --color-progress: var(--color-accent-1);
+  --color-progress-completed: var(--color-accent);
+  --color-progress-background: var(--background-primary);
+ 
+}
+
+
+
+
+
+
+
+
+/* DATES */
+
+
+.metadata-property-value  input.metadata-input-text.mod-datetime {
+  padding-right: 0px;
+  width: fit-content;
+}
+
+.metadata-property-value.has-custom-date input.metadata-input-text.mod-date::-webkit-datetime-edit,
+.metadata-property-value.has-custom-date input.metadata-input-text.mod-datetime::-webkit-datetime-edit {
+  display: none;
+}
+  
+
+.is-mobile .metadata-property-value.has-custom-date  input.metadata-input-text.mod-date,
+.is-mobile .metadata-property-value.has-custom-date  input.metadata-input-text.mod-datetime {
+  font-size: 0; 
+}
+
+.custom-date {
+  font-size: var(--metadata-input-font-size);
+  padding: 2px 4px;
+  margin-left: -4px;
+  color: var(--text-normal);
+}
+
+
+
+
+/* Date colors */
+
+.metadata-property-value[data-relative-date="past"] .custom-date,
+.metadata-property-value:not(.has-custom-date)[data-relative-date="past"] input.mod-date,
+.metadata-property-value:not(.has-custom-date)[data-relative-date="past"] input.mod-datetime,
+.bases-cards-line[data-relative-date="past"] input.mod-date,
+.bases-cards-line[data-relative-date="past"] input.mod-datetime,
+.setting-custom-date-past {
+  background-color: var(--date-past-color);
+  border-radius: 4px;
+  min-height: unset;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-align: center;
+  
+}
+
+.metadata-property-value[data-relative-date="present"] .custom-date,
+.metadata-property-value:not(.has-custom-date)[data-relative-date="present"] input.mod-date,
+.metadata-property-value:not(.has-custom-date)[data-relative-date="present"] input.mod-datetime,
+.bases-cards-line[data-relative-date="present"] input.mod-date,
+.bases-cards-line[data-relative-date="present"] input.mod-datetime,
+.setting-custom-date-present {
+  background-color: var(--date-present-color);
+  border-radius: 4px;
+  min-height: unset;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-align: center;
+}
+
+.metadata-property-value[data-relative-date="future"] .custom-date,
+.metadata-property-value:not(.has-custom-date)[data-relative-date="future"] input.mod-date,
+.metadata-property-value:not(.has-custom-date)[data-relative-date="future"] input.mod-datetime,
+.bases-cards-line[data-relative-date="future"] input.mod-date,
+.bases-cards-line[data-relative-date="future"] input.mod-datetime,
+.setting-custom-date-future {
+  background-color: var(--date-future-color);
+  border-radius: 4px;
+  min-height: unset;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-align: center;
+}
+
+.bases-cards-line input.mod-date {
+  padding: 0 !important;
+}
+
+
+
+.metadata-property-value:not(.has-custom-date) .custom-date {
+  display: none;
+}
+
+
+
+
+
+
+.property-color-setting-button.color-red svg {
+  color: var(--color-red)
+}
+
+.property-color-setting-button.color-orange svg {
+  color: var(--color-orange)
+}
+
+.property-color-setting-button.color-yellow svg {
+  color: var(--color-yellow)
+}
+
+.property-color-setting-button.color-green svg {
+  color: var(--color-green)
+}
+
+.property-color-setting-button.color-cyan svg {
+  color: var(--color-cyan)
+}
+
+.property-color-setting-button.color-blue svg {
+  color: var(--color-blue)
+}
+
+.property-color-setting-button.color-purple svg {
+  color: var(--color-purple)
+}
+
+.property-color-setting-button.color-pink svg {
+  color: var(--color-pink)
+}

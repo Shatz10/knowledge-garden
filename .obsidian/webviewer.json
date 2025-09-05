@@ -1,5 +1,5 @@
 {
-  "openExternalURLs": false,
+  "openExternalURLs": true,
   "enableAdblocking": true,
   "searchEngine": "google",
   "markdownPath": "Sources/Clippings"

@@ -3,7 +3,7 @@ globs: **/*.canvas
 ---
 # Obsidian Advanced Canvas 规范
 
-- 遵循 [Obsidian advanced canvas 规范.md](mdc:🍀 花园导览/🧰 本库指南/Obsidian/Obsidian advanced canvas 规范.md)。
+- 遵循 [Obsidian advanced canvas 规范.md](mdc:🍀 花园导览/🧰 本库指南/Obsidian/Obsidian advanced canvas 规范.md)。但是虽然规范支持frontmatter，但我希望你不要往里面添加tags等内容，因为这目前和obsidian原生生态不兼容。
 
 ## 基本结构（JSON Canvas 1.0）
 - `nodes`（text/file/link/group 等）与 `edges`（连接关系）。

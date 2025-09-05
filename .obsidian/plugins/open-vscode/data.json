@@ -3,7 +3,7 @@
   "ribbonCommandUsesCode": true,
   "showFileContextMenuItem": true,
   "executeTemplate": "cursor \"{{vaultpath}}\" \"{{vaultpath}}/{{filepath}}\"",
-  "urlProtocol": "cursor",
+  "urlProtocol": "cursor:/",
   "openFile": true,
   "workspacePath": "{{vaultpath}}"
 }

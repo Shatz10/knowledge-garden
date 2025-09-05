@@ -7,6 +7,7 @@ date created: 2022-06-09
 date modified: 2025-07-12
 title: MOC
 publish: true
+分类: "[[MOC内容地图 - fileclass]]"
 ---
 
 Map Of Content，简单理解就是内容地图，是索引性质的笔记。往往带有很多链接，引导自己或读者跳转到其他笔记中。

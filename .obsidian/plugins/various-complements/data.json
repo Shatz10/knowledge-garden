@@ -15,6 +15,7 @@
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": true,
   "disableSuggestionsInMathBlock": true,
+  "disableSuggestionsInCodeBlock": true,
   "insertSpaceAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^。，：",
   "patternsToSuppressTrigger": [

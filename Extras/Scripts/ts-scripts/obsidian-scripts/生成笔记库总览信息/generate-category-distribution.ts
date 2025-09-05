@@ -153,7 +153,7 @@ function generateMarkdownReport(categoryStats: CategoryStats, config: Config): s
     }
     markdown += `\n\n`;
 
-    markdown += `**值分布:**\n`;
+    markdown += `**值分布:**\n\n`;
 
     // 为每个分类找到示例文档的辅助函数
     function findExampleFileForCategory(categoryValue: string): string | null {
@@ -180,19 +180,21 @@ function generateMarkdownReport(categoryStats: CategoryStats, config: Config): s
         return null;
     }
 
+    // 生成表格头部
+    markdown += `| 分类值 | 出现次数 | 示例文档 |\n`;
+    markdown += `|--------|----------|----------|\n`;
+
+    // 生成表格内容
     markdown += sortedValues.map(([value, count]) => {
         const exampleFile = findExampleFileForCategory(value);
-        let result = `- ${value}: ${count}次`;
-        if (exampleFile) {
-            result += `\n  - 示例文档: [[${exampleFile}]]`;
-        }
-        return result;
+        const exampleLink = exampleFile ? `[[${exampleFile}]]` : '-';
+        return `| ${value} | ${count} | ${exampleLink} |`;
     }).join('\n');
 
     if (hasMoreValues) {
-        markdown += `\n- ... 还有 ${Object.keys(categoryStats.valueDistribution).length - config.maxValues} 个其他值`;
+        markdown += `\n| ... | 还有 ${Object.keys(categoryStats.valueDistribution).length - config.maxValues} 个其他值 | - |`;
     }
-    markdown += `\n`;
+    markdown += `\n\n`;
 
     return markdown;
 }

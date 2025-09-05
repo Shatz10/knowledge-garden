@@ -3,8 +3,10 @@ publish: true
 date created: 2025-07-06
 date modified: 2025-07-12
 分类:
-- '[[AI生成 - fileclass]]'
-- '[[MOC内容地图 - fileclass]]'
+  - "[[AI生成 - fileclass]]"
+  - "[[MOC内容地图 - fileclass]]"
+tags:
+  - categories
 ---
 
 # ∑ Resources MOC

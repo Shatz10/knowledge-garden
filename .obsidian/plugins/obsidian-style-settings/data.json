@@ -272,7 +272,6 @@
   "V1-Willemstad-UI@@modal-width-settings": 90,
   "V1-Willemstad-Editor@@ssopt-codeblock-language": "default",
   "V1-Willemstad-Editor@@col-base-alpha-alh": 0.25,
-  "V1-Willemstad-Editor@@ssopt-editor-vll": false,
   "V1-Willemstad-Editor@@ssopt-smaller-header-hexes": false,
   "V1-Willemstad-Editor@@ssopt-hide-properties-title": false,
   "V1-Willemstad-Editor@@ssopt-block-width-pdfembed": true,
@@ -332,11 +331,15 @@
   "supercharged-links@@cat1-0040-before": "🤖🖼️ ",
   "supercharged-links@@cat1-0041-before": "📕 ",
   "supercharged-links@@cat1-0042-before": "🍎🐚 ",
-  "supercharged-links@@cat1-0045-before": "😂 ",
+  "supercharged-links@@cat1-0045-before": "[😂 meme] ",
   "supercharged-links@@cat1-0046-before": "🐙 ",
   "supercharged-links@@cat1-0047-before": "☁️🧠 ",
   "supercharged-links@@2c14-e939-background-color": "#C6A944",
   "supercharged-links@@c-2c14-e939-use-background": true,
-  "base-settings@@ssopt-base-hide-headers": false,
-  "frontmatter-settings@@ssopt-frontmatter-hide": false
+  "supercharged-links@@c-a0b0-51e2-use-background": true,
+  "supercharged-links@@a0b0-51e2-background-color": "#C35C5C",
+  "supercharged-links@@a0b0-51e2-color": "#FFFFFF",
+  "supercharged-links@@a0b0-51e2-before": "📂 ",
+  "supercharged-links@@a0b0-51e2-after": " 🏷️",
+  "base-settings@@ssopt-base-hide-headers": false
 }

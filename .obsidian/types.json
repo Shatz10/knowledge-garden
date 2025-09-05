@@ -11,7 +11,7 @@
     "date modified": "date",
     "订阅费用（年）": "text",
     "相关笔记": "multitext",
-    "notetoolbar": "multitext",
+    "notetoolbar": "text",
     "是否有firefox版本": "checkbox",
     "update_time": "datetime",
     "creation_time": "datetime",
@@ -32,6 +32,9 @@
     "isbn": "number",
     "lastReadDate": "datetime",
     "fields": "text",
-    "prompts-model": "multitext"
+    "prompts-model": "multitext",
+    "status": "text",
+    "开始日期": "date",
+    "截止日期": "date"
   }
 }

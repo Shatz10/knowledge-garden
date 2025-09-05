@@ -1,7 +1,9 @@
 ---
+aliases: 
+tags: 
 title: Raycast
 date created: 2022-12-17
-date modified: 2025-07-30
+date modified: 2025-08-30
 brew安装命令: brew install --cask raycast
 评价: 7
 当前使用频率: 5
@@ -36,10 +38,6 @@ Raycast 是软件尊重用户时间的产物。
 ## 备份
 
 [[raycast 备份解压密码]]
-
-![[Raycast 2025-06-30 09.13.16.rayconfig]]
-
-![[Raycast 2025-06-23 10.02.58.rayconfig]]
 
 ##
 
@@ -86,9 +84,12 @@ raycast
 
 【Mac 最强效率软件，没有之一：Raycast- 哔哩哔哩】 https://b23.tv/2YQLB4I
 
+官方101：
+[101 Things You Can Do With Raycast - YouTube](https://www.youtube.com/watch?v=NuIpZoQwuVY)
+
 ## 替换了哪些常用软件
 
 - [[Rectangle]]
 - [[Paste App]]
 
-[能少一个是一个：我用 Raycast 替代了这些应用 - 少数派](https://sspai.com/post/72540)
+[[能少一个是一个：我用 Raycast 替代了这些应用 - 少数派-2022-05-30]]
